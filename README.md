@@ -5,5 +5,5 @@
 - [Repo4](https://github.com/RaheemAmer/Data-Structure-and-Algorithms)
 
 # Topics:
--[Topic1](https://youtu.be/AvgCkHrcj90)
+- [Topic1](https://youtu.be/AvgCkHrcj90)
 
