@@ -7,26 +7,34 @@
 # Topics:
 - [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) 
 - [Topic1 - Color theory - Another Video](https://youtu.be/Qj1FK8n7WgY)
-<hr>
-<h4>Summary</h4>
-<li>Hue - Saturation - Lightness - Color Groups (Color wheel) - Color Meaning and Emotion</li>
-<h5>Saturation:</h5>
+
+# Summary:
+  Hue - Saturation - Lightness - Color Groups (Color wheel) - Color Meaning and Emotion
+
+<h3>(Saturation):</h3>
 <li>Intensity of the color <//li>
-<h5>Saturation Notes:</h5>
+<h3>(Saturation Note):</h3>
 <li>Don't overdo it<//li>
 <li>Use it to guide the viewer and draw his attention to the scene or to something<//li>
 <li>Use it to the story<//li>
 <li>Use it to vhange  the mood<//li>
 
-<h5>Color Meaning:</h5>
+<h3>(Color Meaning):</h3>
 <li>White = purity and peace <//li>
 <li>Black = death and power <//li>
-<h5>Warm Color</h5>
+
+<h3>(Warm Color):</h3>
 <li>Red = passion and danger <//li>
 <li>Orange = energy and creative <//li>
 <li>Yellow = happy and active <//li>
-<h5>Cool Color</h5>
+
+<h3>(Cool Color):</h3>
 <li>Green = nature and healing <//li>
+<li>Blue = calm and wisdom <//li>
+<li>Purple = wealth and ambition <//li>
+
+<h3>(ColorHarmonies):</h3>
+<li>Monochromatic (only one color) (Best for single subject) (Atmospheric)<//li>
 <li>Blue = calm and wisdom <//li>
 <li>Purple = wealth and ambition <//li>
 
