@@ -12,6 +12,11 @@
 <li>Hue - Saturation - Lightness - Color Groups (Color wheel) - Color Meaning and Emotion</li>
 <h5>Saturation:</h5>
 <li>Intensity of the color <//li>
+<h5>Saturation Notes:</h5>
+<li>Don't overdo it<//li>
+<li>Use it to guide the viewer and draw his attention to the scene or to something<//li>
+<li>Use it to the story<//li>
+<li>Use it to vhange  the mood<//li>
 
 <h5>Color Meaning:</h5>
 <li>White = purity and peace <//li>
