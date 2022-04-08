@@ -5,6 +5,6 @@
 - [Repo4](https://github.com/RaheemAmer/Data-Structure-and-Algorithms)
 
 # Topics:
-- [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90)
-Hue
+- [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) <br>
+<p>Hue</p>
 
