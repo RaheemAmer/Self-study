@@ -6,5 +6,6 @@
 
 # Topics:
 - [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) <br>
+<h3>Summary</h3>
 <p>Hue</p>
 
