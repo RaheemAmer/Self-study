@@ -10,6 +10,9 @@
 <hr>
 <h4>Summary</h4>
 <li>Hue - Saturation - Lightness - Color Groups (Color wheel) - Color Meaning and Emotion</li>
+<h5>Saturation:</h5>
+<li>Intensity of the color <//li>
+
 <h5>Color Meaning:</h5>
 <li>White = purity and peace <//li>
 <li>Black = death and power <//li>
