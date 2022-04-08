@@ -5,9 +5,11 @@
 - [Repo4](https://github.com/RaheemAmer/Data-Structure-and-Algorithms)
 
 # Topics:
-- [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) <br>
+- [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) 
+- [Topic1 - Color theory - Another Video](https://youtu.be/Qj1FK8n7WgY)
+<hr>
 <h4>Summary</h4>
-<p>Hue - Saturation - Lightness - Color Groups(Color wheel) - Color Meaning and Emotion</p>
+<li>Hue - Saturation - Lightness - Color Groups (Color wheel) - Color Meaning and Emotion</li>
 <h5>Color Meaning:</h5>
 <li>White = purity and peace <//li>
 <li>Black = death and power <//li>
