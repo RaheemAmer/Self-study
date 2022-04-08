@@ -1,8 +1,8 @@
 # Self-study repos:
-- [Repo1](https://github.com/RaheemAmer/Prepare-for-Girl-script-code-and-google-summer-of-code)
-- [Repo2](https://github.com/RaheemAmer/Frontend-Projects)
-- [Repo3](https://github.com/RaheemAmer/Internship-Tasks)
-- [Repo4](https://github.com/RaheemAmer/Data-Structure-and-Algorithms)
+- [Repo1 - Internships](https://github.com/RaheemAmer/Prepare-for-Girl-script-code-and-google-summer-of-code)
+- [Repo2 - Projects](https://github.com/RaheemAmer/Frontend-Projects)
+- [Repo3 -  Internship-Tasks](https://github.com/RaheemAmer/Internship-Tasks)
+- [Repo4 - Data-Structure-and-Algorithms](https://github.com/RaheemAmer/Data-Structure-and-Algorithms)
 
 # Topics:
 - [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) 
@@ -11,8 +11,11 @@
 # Summary:
   Hue - Saturation - Lightness - Color Groups (Color wheel) - Color Meaning and Emotion
 
+<hr>
+
 <h3>(Saturation):</h3>
 <li>Intensity of the color <//li>
+
 <h3>(Saturation Note):</h3>
 <li>Don't overdo it<//li>
 <li>Use it to guide the viewer and draw his attention to the scene or to something<//li>
@@ -33,9 +36,12 @@
 <li>Blue = calm and wisdom <//li>
 <li>Purple = wealth and ambition <//li>
 
+<hr>
+
+
 <h3>(ColorHarmonies):</h3>
-<li>Monochromatic (only one color) (Best for single subject) (Atmospheric)<//li>
-<li>Blue = calm and wisdom <//li>
+<li>Monochromatic (Only one color) (Best for single subject) (Atmospheric)<//li>
+<li>Analogous (Colors adjacent on wheel) (Easy on the eyes) (Peaceful and comfortable mood) (Seen in nature) <//li>
 <li>Purple = wealth and ambition <//li>
 
 
