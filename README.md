@@ -10,6 +10,7 @@
 - [Topic1 - Color theory - Another Video](https://youtu.be/Qj1FK8n7WgY)
 - [Topic1 - Color theory - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topic1.md)
 - [Topic2 - Computer Architecture](https://www.dummies.com/article/academics-the-arts/study-skills-test-prep/cissp/computer-architecture-cissp-exam-254885/)
+- [Topic2 - Computer Architecture - Video](https://www.youtube.com/watch?v=GRInNLx3Tug)
 
 
 
