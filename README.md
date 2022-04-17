@@ -4,6 +4,8 @@
 - [Repo3 -  Internship-Tasks](https://github.com/RaheemAmer/Internship-Tasks)
 - [Repo4 - Learn-Programming](https://github.com/RaheemAmer/Learn-Programming)
 - [Repo5 - Data-Structure-and-Algorithms](https://github.com/RaheemAmer/Data-Structure-and-Algorithms)
+- [Repo6 - WebZeroAcademy](https://github.com/RaheemAmer/WebZeroAcademy)
+
 
 # Topics:
 - [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) 
