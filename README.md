@@ -1,5 +1,5 @@
 # Self-study repos:
-- [Repo1 - Internships](https://github.com/RaheemAmer/Prepare-for-Girl-script-code-and-google-summer-of-code)
+- [Repo1 - Open-Source Communities](https://github.com/RaheemAmer/Prepare-for-Girl-script-code-and-google-summer-of-code)
 - [Repo2 - Projects](https://github.com/RaheemAmer/Frontend-Projects)
 - [Repo3 -  Internship-Tasks](https://github.com/RaheemAmer/Internship-Tasks)
 - [Repo4 - Learn-Programming](https://github.com/RaheemAmer/Learn-Programming)
