@@ -15,7 +15,7 @@
 - [Topic2 - Computer Architecture - Video](https://www.youtube.com/watch?v=GRInNLx3Tug)
 - [Topic2 - Computer Architecture - Another Video](https://www.youtube.com/watch?v=HEjPop-aK_w)
 
-# Games:
+# Games to help you learn:
 - [Game1](https://cssgridgarden.com/) 
 - [Game2](https://flukeout.github.io/) 
 - [Game3](http://www.flexboxdefense.com/) 
