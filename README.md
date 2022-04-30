@@ -14,5 +14,6 @@
 - [Topic2 - Computer Architecture](https://www.dummies.com/article/academics-the-arts/study-skills-test-prep/cissp/computer-architecture-cissp-exam-254885/)
 - [Topic2 - Computer Architecture - Video](https://www.youtube.com/watch?v=GRInNLx3Tug)
 - [Topic2 - Computer Architecture - Another Video](https://www.youtube.com/watch?v=HEjPop-aK_w)
+- [Topic3 - SSR - CSR- SSG - ISR ](https://www.youtube.com/watch?v=kL6KVTHtW-s)
 
 
