@@ -19,5 +19,7 @@
 - [Topic2 - Computer Architecturey - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topic2.md)
 ### SSR - CSR- SSG - ISR:
 - [Topic3 - SSR - CSR- SSG - ISR - Video ](https://www.youtube.com/watch?v=kL6KVTHtW-s)
+- [Topic3 - SSR - CSR- SSG - ISR - Course](https://www.skillshare.com/classes/Next-js-for-Beginners-Learn-the-fundamentals-of-Next-js/1612012397?discount=Q4ETG&teacherRef=282493&via=free-enrollment&utm_campaign=teacher-discount-1612012397&utm_source=ShortUrl&utm_medium=teacher-discount)
 - [Topic3 - SSR - CSR- SSG - ISR - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topic3.md)
+
 
