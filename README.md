@@ -8,13 +8,16 @@
 
 
 # Topics:
+### Color theory:
 - [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) 
 - [Topic1 - Color theory - Another Video](https://youtu.be/Qj1FK8n7WgY)
 - [Topic1 - Color theory - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topic1.md)
+### Computer Architecture:
 - [Topic2 - Computer Architecture](https://www.dummies.com/article/academics-the-arts/study-skills-test-prep/cissp/computer-architecture-cissp-exam-254885/)
 - [Topic2 - Computer Architecture - Video](https://www.youtube.com/watch?v=GRInNLx3Tug)
 - [Topic2 - Computer Architecture - Another Video](https://www.youtube.com/watch?v=HEjPop-aK_w)
 - [Topic2 - Computer Architecturey - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topic2.md)
+### SSR - CSR- SSG - ISR:
 - [Topic3 - SSR - CSR- SSG - ISR - Video ](https://www.youtube.com/watch?v=kL6KVTHtW-s)
 - [Topic3 - SSR - CSR- SSG - ISR - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topic3.md)
 
