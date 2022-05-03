@@ -30,6 +30,17 @@
 - [Simplified Thinking Like a Software Engineer](https://andreda-mind.medium.com/simplified-thinking-like-a-software-engineer-part-1-43bfc45c20ba)
 - [كيف تجتاز فتره الاختبار بنجاح](http://alaa.ninja/software%20engineering/2022/04/18/how-to-nail-your-onboarding.html?fbclid=IwAR2ATmW7sJsBCWml-o3dAIRWm6_bHG8Lz_kNelmgwBC5_gdJmk6DWVfpvU0)
 
+# Courses:
+### React:
+- [Full Stack Open](https://fullstackopen.com/en/)
+- [Learn React for free](https://scrimba.com/learn/learnreact)
+- [React Docs](https://beta.reactjs.org/)
+- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [15 React projects course by Freecodecamp](https://www.freecodecamp.org/)
+- Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+- [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/)
+
+
 # Topics:
 ### Color theory:
 - [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) 
