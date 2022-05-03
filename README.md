@@ -14,7 +14,7 @@
 
 # Articles:
 - [Simplified Thinking Like a Software Engineer](https://andreda-mind.medium.com/simplified-thinking-like-a-software-engineer-part-1-43bfc45c20ba)
-- [http://alaa.ninja/software%20engineering/2022/04/18/how-to-nail-your-onboarding.html?fbclid=IwAR2ATmW7sJsBCWml-o3dAIRWm6_bHG8Lz_kNelmgwBC5_gdJmk6DWVfpvU0](http://alaa.ninja/software%20engineering/2022/04/18/how-to-nail-your-onboarding.html?fbclid=IwAR2ATmW7sJsBCWml-o3dAIRWm6_bHG8Lz_kNelmgwBC5_gdJmk6DWVfpvU0)
+- [كيف تجتاز فتره الاختبار بنجاح](http://alaa.ninja/software%20engineering/2022/04/18/how-to-nail-your-onboarding.html?fbclid=IwAR2ATmW7sJsBCWml-o3dAIRWm6_bHG8Lz_kNelmgwBC5_gdJmk6DWVfpvU0)
 
 
 # Topics:
