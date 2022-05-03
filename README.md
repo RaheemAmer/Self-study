@@ -6,6 +6,16 @@
 - [Repo5 - Data-Structure-and-Algorithms](https://github.com/RaheemAmer/Data-Structure-and-Algorithms)
 - [Repo6 - WebZeroAcademy](https://github.com/RaheemAmer/WebZeroAcademy)
 
+# Podcasts:
+- [Null++:بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
+- [AskDeveloperPodcast](https://open.spotify.com/show/6G8gqVH6dW3fkMlFmuMEoR?si=bad2d2e48d4d4f8e)
+- [CompleteDeveloperPodcast](https://open.spotify.com/show/6TdLKSIN3n37d8w6REhXfN?si=7570d41a3258426a)
+- [FreeCodeAcademy](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP?si=065c8e4bcc3a4e9a)
+
+# Articles:
+- [Simplified Thinking Like a Software Engineer](https://andreda-mind.medium.com/simplified-thinking-like-a-software-engineer-part-1-43bfc45c20ba)
+- [http://alaa.ninja/software%20engineering/2022/04/18/how-to-nail-your-onboarding.html?fbclid=IwAR2ATmW7sJsBCWml-o3dAIRWm6_bHG8Lz_kNelmgwBC5_gdJmk6DWVfpvU0](http://alaa.ninja/software%20engineering/2022/04/18/how-to-nail-your-onboarding.html?fbclid=IwAR2ATmW7sJsBCWml-o3dAIRWm6_bHG8Lz_kNelmgwBC5_gdJmk6DWVfpvU0)
+
 
 # Topics:
 ### Color theory:
