@@ -9,8 +9,21 @@
 # Podcasts:
 - [Null++:بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
 - [AskDeveloperPodcast](https://open.spotify.com/show/6G8gqVH6dW3fkMlFmuMEoR?si=bad2d2e48d4d4f8e)
+- [Sprints](https://open.spotify.com/show/3h3ssWj8Cy2s0hV8NHrf1J?si=ca922e54241b4eca)
 - [CompleteDeveloperPodcast](https://open.spotify.com/show/6TdLKSIN3n37d8w6REhXfN?si=7570d41a3258426a)
 - [FreeCodeAcademy](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP?si=065c8e4bcc3a4e9a)
+- [EpicReactPodcast](https://open.spotify.com/show/3vjuOCwZ7kfUgm80xSpZmK?si=4ac8172469c243fe)
+- [EggHead](https://open.spotify.com/show/4FKWy0vjNbt6uFwAzwd7XF?si=8cc3553a5ffd4ee0)
+- [Js-Party](https://open.spotify.com/show/2ySVrxGkN6n6frMTo9Nsrt?si=274e8ec65e8d4842)
+- [Front End Nerdery Podcast](https://open.spotify.com/show/4HSxbhC8ZLRcon3o5HRFEq?si=25ca48309d684954)
+- [Web History](https://open.spotify.com/show/0vR1DIKcA0DH8904tAOHSd?si=44c2f0685d2d442f)
+- [Modern Web](https://open.spotify.com/show/5FGA58foRFkJ6IgJbCFYgm?si=3e058072c06c49a1)
+- [Frontend First](https://open.spotify.com/show/2wcxse0NdM4vu5qMCiIzTj?si=76df921741fa4bdb)
+- [The Vanilla Js Podcast](https://open.spotify.com/show/2jfWVEgKGZMazgou1hXH1R?si=0e776c4a49a54957)
+- [How To Code Well](https://open.spotify.com/show/6zapPUKAuSjEZxrKR5fUxW?si=6b72cefe127845bf)
+- [Dev Theory - A Web Development Podcast](https://open.spotify.com/show/0bB54QoXnbO1pwhFxInq0s?si=e4aac2ebf6fa4ae9)
+- [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=811b8c6156254b1a)
+- [Responsive Design Podcast](https://open.spotify.com/show/7ihIkUSzDnPueeGZN0lTY5?si=3a58e657c7d245f9)
 
 # Articles:
 - [Simplified Thinking Like a Software Engineer](https://andreda-mind.medium.com/simplified-thinking-like-a-software-engineer-part-1-43bfc45c20ba)
