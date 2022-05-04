@@ -39,6 +39,7 @@
 - [15 React projects course by Freecodecamp](https://www.freecodecamp.org/)
 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 - [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/)
+- [linkedin-learning-free-learning-paths](https://www.classcentral.com/report/linkedin-learning-free-learning-paths/#certifications)
 
 
 # Topics:
