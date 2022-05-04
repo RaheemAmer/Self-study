@@ -29,6 +29,7 @@
 - [Master While Traveling In The Dom Desert](https://levelup.gitconnected.com/becoming-a-js-eventlistener-master-while-traveling-in-the-dom-desert-e6f93226064e)
 - [Simplified Thinking Like a Software Engineer](https://andreda-mind.medium.com/simplified-thinking-like-a-software-engineer-part-1-43bfc45c20ba)
 - [كيف تجتاز فتره الاختبار بنجاح](http://alaa.ninja/software%20engineering/2022/04/18/how-to-nail-your-onboarding.html?fbclid=IwAR2ATmW7sJsBCWml-o3dAIRWm6_bHG8Lz_kNelmgwBC5_gdJmk6DWVfpvU0)
+- [linkedin-learning-free-learning-paths](https://www.classcentral.com/report/linkedin-learning-free-learning-paths/#certifications)
 
 # Courses:
 ### React:
@@ -39,7 +40,6 @@
 - [15 React projects course by Freecodecamp](https://www.freecodecamp.org/)
 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 - [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/)
-- [linkedin-learning-free-learning-paths](https://www.classcentral.com/report/linkedin-learning-free-learning-paths/#certifications)
 
 
 # Topics:
