@@ -48,6 +48,10 @@
 # Problem Solving Notes:
 - [Read this readme](https://github.com/RaheemAmer/Learn-Programming/blob/main/Problem-solving.md)
 
+# Cool Videos:
+- [Story of React](https://www.youtube.com/watch?v=Wm_xI7KntDs)
+- [Vue Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
+
 # Topics:
 ### Color theory:
 - [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) 
