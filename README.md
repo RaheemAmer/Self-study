@@ -9,6 +9,7 @@
 # Podcasts:
 - [Null++:بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
 - [AskDeveloperPodcast](https://open.spotify.com/show/6G8gqVH6dW3fkMlFmuMEoR?si=bad2d2e48d4d4f8e)
+- [قهوة عصام](https://open.spotify.com/show/57b34WqXbbPpyIJKxcQqii?si=890f04575a6a4452)
 - [Sprints](https://open.spotify.com/show/3h3ssWj8Cy2s0hV8NHrf1J?si=ca922e54241b4eca)
 - [CompleteDeveloperPodcast](https://open.spotify.com/show/6TdLKSIN3n37d8w6REhXfN?si=7570d41a3258426a)
 - [FreeCodeAcademy](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP?si=065c8e4bcc3a4e9a)
