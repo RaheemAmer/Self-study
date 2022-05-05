@@ -26,6 +26,9 @@
 - [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=811b8c6156254b1a)
 - [Responsive Design Podcast](https://open.spotify.com/show/7ihIkUSzDnPueeGZN0lTY5?si=3a58e657c7d245f9)
 
+# Books:
+- [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/dp/0999081446/ref=cm_sw_r_as_gl_api_gl_i_MH2BPGRVF9E4AXXTKXS4)
+
 # Articles:
 - [Master While Traveling In The Dom Desert](https://levelup.gitconnected.com/becoming-a-js-eventlistener-master-while-traveling-in-the-dom-desert-e6f93226064e)
 - [Simplified Thinking Like a Software Engineer](https://andreda-mind.medium.com/simplified-thinking-like-a-software-engineer-part-1-43bfc45c20ba)
