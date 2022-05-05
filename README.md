@@ -45,6 +45,8 @@
 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 - [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/)
 
+# Problem Solving Notes:
+- [Read this readme](https://github.com/RaheemAmer/Learn-Programming/blob/main/Problem-solving.md)
 
 # Topics:
 ### Color theory:
