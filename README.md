@@ -28,6 +28,7 @@
 
 # Books:
 - [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/dp/0999081446/ref=cm_sw_r_as_gl_api_gl_i_MH2BPGRVF9E4AXXTKXS4)
+- [Basecamp Employee Handbook](https://basecamp.com/handbook/08-getting-started?utm_campaign=Nullplusplus+Episode)
 
 # Articles:
 - [Master While Traveling In The Dom Desert](https://levelup.gitconnected.com/becoming-a-js-eventlistener-master-while-traveling-in-the-dom-desert-e6f93226064e)
