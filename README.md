@@ -37,7 +37,7 @@
 - [linkedin free learning paths](https://www.classcentral.com/report/linkedin-learning-free-learning-paths/#certifications)
 
 # Design patterns:
-- [Design pattern intro by(Mohamed Abusrea)](https://www.youtube.com/watch?v=fUBp_yy_O6I)
+- [Design pattern intro by (Mohamed Abusrea) (Video)](https://www.youtube.com/watch?v=fUBp_yy_O6I)
 
 # Courses:
 ### React:
