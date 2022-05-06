@@ -40,10 +40,9 @@
 - [linkedin free learning paths](https://www.classcentral.com/report/linkedin-learning-free-learning-paths/#certifications)
 - [Your Old Laptop Is Your New Database Server](https://dzone.com/articles/your-old-laptop-is-your-new-database-server)
 
-# React Essentials:
-- [Design pattern intro by (Mohamed Abusrea) (Video)](https://www.youtube.com/watch?v=fUBp_yy_O6I)
-- [(Overview of React.js | Design Patterns in javascript) (Video)](https://www.youtube.com/watch?v=8W-vkJC6nHI)
-- [Redux (Video)](https://www.youtube.com/watch?v=w9ghRG9Foiw)
+# Awesome Resources:
+- [Flexbox Patterns](https://flexboxpatterns.com/)
+
 
 # Courses:
 ### React:
@@ -55,6 +54,10 @@
 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 - [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/)
 
+# React Essentials:
+- [Design pattern intro by (Mohamed Abusrea) (Video)](https://www.youtube.com/watch?v=fUBp_yy_O6I)
+- [(Overview of React.js | Design Patterns in javascript) (Video)](https://www.youtube.com/watch?v=8W-vkJC6nHI)
+- [Redux (Video)](https://www.youtube.com/watch?v=w9ghRG9Foiw)
 # Problem Solving Notes:
 - [Read this readme](https://github.com/RaheemAmer/Learn-Programming/blob/main/Problem-solving.md)
 
