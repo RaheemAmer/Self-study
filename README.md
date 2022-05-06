@@ -42,7 +42,8 @@
 
 # Awesome Resources:
 - [Flexbox Patterns](https://flexboxpatterns.com/)
-
+- [Flexbox Ninja](https://flexbox.ninja/)
+- [Flexbox-Playground](https://flexbox.tech/)
 
 # Courses:
 ### React:
