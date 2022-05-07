@@ -1,4 +1,4 @@
-# Self-study repos:
+# Self-study repos and notes:
 - [Repo1 - Open Source Communities](https://github.com/RaheemAmer/Prepare-for-Girl-script-code-and-google-summer-of-code)
 - [Repo2 - Projects](https://github.com/RaheemAmer/Frontend-Projects)
 - [Repo3 -  Internship-Tasks](https://github.com/RaheemAmer/Internship-Tasks)
@@ -7,6 +7,8 @@
 - [Repo6 - WebZeroAcademy](https://github.com/RaheemAmer/WebZeroAcademy)
 - [Repo7 - Conquering-Responsive-Layouts](https://github.com/RaheemAmer/Conquering-Responsive-Layouts)
 - [Repo8 - RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
+### Notes:
+- [List of courses finished](https://github.com/RaheemAmer/Self-study/blob/main/Courses-Finished.md)
 
 # Podcasts:
 - [Null++:بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
