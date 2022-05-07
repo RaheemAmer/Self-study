@@ -64,8 +64,8 @@
 
 # Problem Solving Notes:
 - [Read this (readme)](https://github.com/RaheemAmer/Learn-Programming/blob/main/Problem-solving.md)
-- [ArabicCompetitiveProgramming(Repo)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming)
-- [Problem-Solving-Training(Repo)](https://github.com/RaheemAmer/Problem-Solving-Training)
+- [ArabicCompetitiveProgramming (Repo)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming)
+- [Problem-Solving-Training (Repo)](https://github.com/RaheemAmer/Problem-Solving-Training)
 
 # Problem Solving Websites:
 - [Coderhub](https://coderhub.sa/home)
