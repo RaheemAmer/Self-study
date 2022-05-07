@@ -65,6 +65,18 @@
 - [ArabicCompetitiveProgramming(Repo)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming)
 - [Problem-Solving-Training(Repo)](https://github.com/RaheemAmer/Problem-Solving-Training)
 
+# Problem Solving Websites:
+- [Coderhub](https://coderhub.sa/home)
+- [Topcoder](https://www.topcoder.com/)
+- [Coderbyte](https://www.coderbyte.com/)
+- [Project-Euler](https://projecteuler.net/)
+- [Hackerrank](https://www.hackerrank.com)
+- [Codechef](https://www.codechef.com/)
+- [Exercism](https://exercism.org/)
+- [Codewars](https://www.codewars.com/)
+- [Leetcode](https://leetcode.com/)
+- [Spoj](https://www.spoj.com/)
+- [Codingame](https://www.codingame.com/start)
 
 # Cool Videos:
 - [Story of React](https://www.youtube.com/watch?v=Wm_xI7KntDs)
