@@ -57,6 +57,10 @@
 - [15 React projects course by Freecodecamp](https://www.freecodecamp.org/)
 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 - [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/)
+- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [Learn React](https://www.codecademy.com/learn/react-101)
+- [The Free React Bootcamp](https://ui.dev/free-react-bootcamp)
+- [React Fundamentals](https://frontarm.com/courses/react-fundamentals/)
 
 # React Essentials:
 - [Design pattern intro by (Mohamed Abusrea) (Video)](https://www.youtube.com/watch?v=fUBp_yy_O6I)
