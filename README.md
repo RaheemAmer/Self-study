@@ -7,6 +7,9 @@
 - [Repo6 - WebZeroAcademy](https://github.com/RaheemAmer/WebZeroAcademy)
 - [Repo7 - Conquering-Responsive-Layouts](https://github.com/RaheemAmer/Conquering-Responsive-Layouts)
 - [Repo8 - RouteAcademyTasks](https://github.com/RaheemAmer/RouteAcademyTasks)
+- [Repo9 - Learning-React](https://github.com/RaheemAmer/Learning-React)
+
+
 ### Notes:
 - [List of courses finished](https://github.com/RaheemAmer/Self-study/blob/main/Courses-Finished.md)
 
