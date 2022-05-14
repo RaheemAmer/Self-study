@@ -11,7 +11,7 @@
 - [Repo10 - Frontend Mentor Challenges](https://github.com/RaheemAmer/frontendmentor_challenges)
 - [Repo11 - Web-Dev-For-Beginners[Microsoft]](https://github.com/RaheemAmer/Web-Dev-For-Beginners)
 
-### Notes:
+### Self-Notes:
 - [List of courses finished](https://github.com/RaheemAmer/Self-study/blob/main/Courses-Finished.md)
 
 # Podcasts:
