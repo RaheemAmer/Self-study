@@ -53,6 +53,18 @@
 - [Flexbox-Playground](https://flexbox.tech/)
 
 # Courses:
+### Javascript:
+#### Repos:
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
+- [Awesome-Javascript-Learning](https://github.com/micromata/awesome-javascript-learning)
+- [Javascript-Algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [Clean-Code-Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Awesome-Javascript](https://github.com/sorrycc/awesome-javascript)
+- [Javascript](https://github.com/airbnb/javascript)
+- [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
+- [Computer-Science-In-Javascript](https://github.com/humanwhocodes/computer-science-in-javascript)
+
 ### React:
 - [Full Stack Open](https://fullstackopen.com/en/)
 - [Learn React for free](https://scrimba.com/learn/learnreact)
