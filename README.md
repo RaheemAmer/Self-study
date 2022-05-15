@@ -10,6 +10,7 @@
 - [Repo9 - Learning-React](https://github.com/RaheemAmer/Learning-React)
 - [Repo10 - Frontend Mentor Challenges](https://github.com/RaheemAmer/frontendmentor_challenges)
 - [Repo11 - Web-Dev-For-Beginners[Microsoft]](https://github.com/RaheemAmer/Web-Dev-For-Beginners)
+- [Repo12 - Side-Projects](https://github.com/RaheemAmer/Side-projects)
 
 ### Self-Notes:
 - [List of courses finished](https://github.com/RaheemAmer/Self-study/blob/main/Courses-Finished.md)
