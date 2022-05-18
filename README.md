@@ -47,6 +47,7 @@
 - [linkedin free learning paths](https://www.classcentral.com/report/linkedin-learning-free-learning-paths/#certifications)
 - [Your Old Laptop Is Your New Database Server](https://dzone.com/articles/your-old-laptop-is-your-new-database-server)
 - [How to Report Errors in Forms](https://www.nngroup.com/articles/errors-forms-design-guidelines/)
+- [15 Best JavaScript (JS) UI Libraries to Build Modern Applications](https://geekflare.com/best-javascript-ui-libraries/)
 
 # Awesome Resources:
 - [Flexbox Patterns](https://flexboxpatterns.com/)
