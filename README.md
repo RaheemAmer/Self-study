@@ -108,6 +108,7 @@
 - [Story of React](https://www.youtube.com/watch?v=Wm_xI7KntDs)
 - [Vue Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 - [The Story of Concurrent React](https://www.youtube.com/watch?v=NZoRlVi3MjQ)
+- [What is CORS? | Cross-Origin Resource Sharing | CORS Explained](https://www.youtube.com/watch?v=h-WtIT6gCBk)
 
 # Prepare For Interviews:
 - [fullsSackCafe](https://www.fullstack.cafe/)
