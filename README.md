@@ -15,6 +15,7 @@
 
 ### Self-Notes:
 - [List of courses finished](https://github.com/RaheemAmer/Self-study/blob/main/Courses-Finished.md)
+- [List of companies with their stack](http://stackinfo.me/)
 
 # Podcasts:
 - [Null++:بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
