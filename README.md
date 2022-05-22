@@ -82,6 +82,9 @@
 - [The Free React Bootcamp](https://ui.dev/free-react-bootcamp)
 - [React Fundamentals](https://frontarm.com/courses/react-fundamentals/)
 
+### React Roadmap:
+- [Master React](https://roadmap.sh/react)
+
 # React Essentials:
 - [Design pattern intro by (Mohamed Abusrea) (Video)](https://www.youtube.com/watch?v=fUBp_yy_O6I)
 - [(Overview of React.js | Design Patterns in javascript) (Video)](https://www.youtube.com/watch?v=8W-vkJC6nHI)
