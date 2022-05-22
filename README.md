@@ -56,6 +56,7 @@
 - [Flexbox Ninja](https://flexbox.ninja/)
 - [Flexbox-Playground](https://flexbox.tech/)
 - [Contrib-Rocks](https://contrib.rocks/preview)
+- [Make some waves!](https://getwaves.io/)
 
 # Courses:
 ### Javascript:
