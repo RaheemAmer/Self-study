@@ -140,3 +140,9 @@
 - [Topic4 - Overview on React - Video](https://www.youtube.com/watch?v=8W-vkJC6nHI)
 - [Topic4 - Overview on React - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topic4.md)
 
+### Project management and software engineering methodologies:
+- [Topic5 - Project Management Fundamentals - Video](https://www.youtube.com/watch?v=6LJLIfRfrts)
+- [Topic5 - What is Scrum? - Video](https://www.youtube.com/watch?v=DbCvs-60ytM)
+- [Topic5 - Scrum Methodology - Video](https://www.youtube.com/watch?v=8dGdIcyDk1w)
+- [Topic5 - Scrum vs Kanban - Video](https://www.youtube.com/watch?v=GLFuzBiy18o)
+- [Topic5 - Project management - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topic5.md)
