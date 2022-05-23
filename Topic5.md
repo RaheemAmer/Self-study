@@ -34,12 +34,12 @@ It's not a methodology or framework or process, agile promotes self-learning and
 - self-organization is not the absence of management
 
 ## Scrum framework:
-### implement a scientific method of empiricism 
+- implement a scientific method of empiricism 
 
-### 3 pillars of empiricism :
-1 fact-based
-2 experience-based
-3 evidence-based
+## 3 pillars of empiricism :
+1. fact-based
+2. experience-based
+3. evidence-based
 
 ### Notes
 all of them are based on reality, not planning entirely
@@ -86,7 +86,7 @@ create a sprint review conducted by the product owner (stockholders and scrums m
 4. sprint retrospective
 
 ## Kanban
-### in Japanese means billboard, developed by Toyota for manufacturing 
+- in Japanese means billboard, developed by Toyota for manufacturing 
 
 ## Kanban Cycle
 1. Backlog
