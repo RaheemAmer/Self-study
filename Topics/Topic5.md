@@ -104,8 +104,8 @@ create a sprint review conducted by the product owner (stockholders and scrums m
 - Scrum, sprint backlog is owned by only one time, in Kanban, multiple teams can do this
 
 ## Illustrations
-- [Kanban-board](https://github.com/RaheemAmer/Self-study/blob/main/assets/kanban-board.png)
-- [Scrum](https://github.com/RaheemAmer/Self-study/blob/main/assets/scrum.png)
+- [Kanban-board](https://github.com/RaheemAmer/Self-study/blob/main/Assets/kanban-board.png)
+- [Scrum](https://github.com/RaheemAmer/Self-study/blob/main/Assets/scrum.png)
 ## Resources
 - [Project Management Fundamentals - Video](https://www.youtube.com/watch?v=6LJLIfRfrts)
 - [What is Scrum? - Video](https://www.youtube.com/watch?v=DbCvs-60ytM)
