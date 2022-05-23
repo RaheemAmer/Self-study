@@ -22,7 +22,7 @@ this method is repeated(iterated) on a weekly basic for a period almost two to f
 ## Agile
 It's not a methodology or framework or process, agile promotes self-learning and self-organization, by implementing a scientific method that replaces a programmed algorithmic approach, this means not planning the whole project but instead, sprints or iterations to create a ready shipped product by reacting to feedback on each sprint
 
-## 3 Rules in Scrum:
+## 3 Roles in Scrum:
 1. product owner
 2. scrum master
 3. team
