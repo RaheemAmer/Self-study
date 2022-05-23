@@ -103,3 +103,11 @@ create a sprint review conducted by the product owner (stockholders and scrums m
 - scrum can't add during ongoing iterations while Kanban is more iterative due to a lack of timeframes
 - Scrum, sprint backlog is owned by only one time, in Kanban, multiple teams can do this
 
+## Illustrations
+- [Kanban-board](https://github.com/RaheemAmer/Self-study/blob/main/kanban-board.png)
+- [Scrum](https://github.com/RaheemAmer/Self-study/blob/main/scrum.png)
+## Resources
+- [Project Management Fundamentals - Video](https://www.youtube.com/watch?v=6LJLIfRfrts)
+- [What is Scrum? - Video](https://www.youtube.com/watch?v=DbCvs-60ytM)
+- [Scrum Methodology - Video](https://www.youtube.com/watch?v=8dGdIcyDk1w)
+- [Scrum vs Kanban - Video](https://www.youtube.com/watch?v=GLFuzBiy18o)
