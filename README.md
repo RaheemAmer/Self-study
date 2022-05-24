@@ -67,6 +67,11 @@
 
 # Courses:
 ### Javascript:
+### Videos:
+- [JavaScript - Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)
+- [Null vs Undefined - Beau teaches JavaScript](https://www.youtube.com/watch?v=VwaqJy_clnc)
+- [ES6 Tutorial: Learn Modern JavaScript for beginner | Most of Javascript Interviews Questions](https://www.youtube.com/watch?v=w3ZwgdgCigM&t=204s)
+
 #### Repos:
 - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
