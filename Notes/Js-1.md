@@ -1,15 +1,32 @@
 # Javascript-Notes(1)
 
-## 8 Data Types
+## Data Types
 
+### Primitive
+
+- String
+- Number
+- Boolean
 - Undefined
 - Null
-- String
 - Symbol
 - BigInt
-- Number
+
+### Non-Primitive
+
+- Array
 - Object
-- Boolean
+- Function
+
+## What is Primitive Data Types?
+
+- stored in our memory on the stack(Stack of data) and this type od memory can be accessed really quick and very limited too but doesn't have much information nor space but it's very fast
+- variable knows the value(WE get copies)
+
+## What is Non - Primitive (Reference) Data Types?
+
+- stored on the heap, takes a little bit longer to be accessed, holds more info and data, not short living like the stack, suitable for dynamic data changes
+- variable knows the pointer pointing at the location
 
 ### Declare a variable
 
@@ -40,6 +57,10 @@ Using the assignment operator (=) => ```myName = "Raheem";```
 - ```const myStr = "I am a \"double quoted\" string inside \"double quotes\"."``` Use \ backslash
 - You can use both quotes safely by using the backslash \ as an escape character or you can use single quotes and within double within no escape character
 - ```const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line``` Escape using backslash
+- Use Bracket Notation to Find the First Character in a String
+- In JavaScript, String values are immutable, which means that they cannot be altered once created.
+- Store multiple values in one place using array
+- Modify array as it's mutable even if we used const, using bracket notations
 
 <p>
 This stands since the beginning of JavaScript
