@@ -54,6 +54,7 @@
 - [Design System vs Pattern Library vs Style Guide / A Single Source of Truth](https://www.unitygroup.com/blog/design-system-vs-pattern-library-vs-style-guide-a-single-source-of-truth/)
 - [The Web Developer's SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet)
 - [A SEO Guide for Frontend Developers](https://bitspeicher.blog/seo-guide-frontend-developer/)
+- [Understand MVC Architecture in 5 mins](https://www.crio.do/blog/understand-mvc-architecture/)
 
 # Awesome Resources and Cool Topics:
 - [Flexbox Patterns](https://flexboxpatterns.com/)
