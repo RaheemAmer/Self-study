@@ -64,14 +64,15 @@
 - [Make some waves!](https://getwaves.io/)
 - [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
 - [BEM](https://en.bem.info/methodology/quick-start/)
-- [JavaScript: Primitive Types vs Reference Types Part 1](https://youtu.be/hnsA0Y5MHDE)
-- [Javascript: Primitive Types vs Reference Types - Part 2](https://www.youtube.com/watch?v=U_WwLiTKM7I)
+
 
 # Javascript:
 ### Videos:
 - [JavaScript - Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)
 - [Null vs Undefined - Beau teaches JavaScript](https://www.youtube.com/watch?v=VwaqJy_clnc)
 - [ES6 Tutorial: Learn Modern JavaScript for beginner | Most of Javascript Interviews Questions](https://www.youtube.com/watch?v=w3ZwgdgCigM&t=204s)
+- [JavaScript: Primitive Types vs Reference Types Part 1](https://youtu.be/hnsA0Y5MHDE)
+- [Javascript: Primitive Types vs Reference Types - Part 2](https://www.youtube.com/watch?v=U_WwLiTKM7I)
 
 ##### Repos:
 - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
