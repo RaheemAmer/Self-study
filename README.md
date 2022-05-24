@@ -52,6 +52,8 @@
 - [15 Best JavaScript (JS) UI Libraries to Build Modern Applications](https://geekflare.com/best-javascript-ui-libraries/)
 - [The Difference Between Design Systems, Pattern Libraries, Style Guides & Component Libraries](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
 - [Design System vs Pattern Library vs Style Guide / A Single Source of Truth](https://www.unitygroup.com/blog/design-system-vs-pattern-library-vs-style-guide-a-single-source-of-truth/)
+- [The Web Developer's SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet)
+- [A SEO Guide for Frontend Developers](https://bitspeicher.blog/seo-guide-frontend-developer/)
 
 # Awesome Resources and Cool Topics:
 - [Flexbox Patterns](https://flexboxpatterns.com/)
