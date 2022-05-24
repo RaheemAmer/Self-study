@@ -55,6 +55,7 @@
 - [The Web Developer's SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet)
 - [A SEO Guide for Frontend Developers](https://bitspeicher.blog/seo-guide-frontend-developer/)
 - [Understand MVC Architecture in 5 mins](https://www.crio.do/blog/understand-mvc-architecture/)
+- [Trendy Javascript Project](https://www.crio.do/blog/fresh-and-trendy-javascript-projects-for-beginners/)
 
 # Awesome Resources and Cool Topics:
 - [Flexbox Patterns](https://flexboxpatterns.com/)
