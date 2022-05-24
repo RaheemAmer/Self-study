@@ -65,9 +65,13 @@
 - [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
 - [BEM](https://en.bem.info/methodology/quick-start/)
 
-# Courses:
-### Javascript:
-#### Repos:
+# Javascript:
+### Videos:
+- [JavaScript - Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)
+- [Null vs Undefined - Beau teaches JavaScript](https://www.youtube.com/watch?v=VwaqJy_clnc)
+- [ES6 Tutorial: Learn Modern JavaScript for beginner | Most of Javascript Interviews Questions](https://www.youtube.com/watch?v=w3ZwgdgCigM&t=204s)
+
+##### Repos:
 - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
 - [Awesome-Javascript-Learning](https://github.com/micromata/awesome-javascript-learning)
@@ -77,6 +81,12 @@
 - [Javascript](https://github.com/airbnb/javascript)
 - [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
 - [Computer-Science-In-Javascript](https://github.com/humanwhocodes/computer-science-in-javascript)
+
+
+# React Essentials:
+- [Design pattern intro by (Mohamed Abusrea) (Video)](https://www.youtube.com/watch?v=fUBp_yy_O6I)
+- [(Overview of React.js | Design Patterns in javascript) (Video)](https://www.youtube.com/watch?v=8W-vkJC6nHI)
+- [Redux (Video)](https://www.youtube.com/watch?v=w9ghRG9Foiw)
 
 ### React:
 - [Full Stack Open](https://fullstackopen.com/en/)
@@ -91,20 +101,15 @@
 - [The Free React Bootcamp](https://ui.dev/free-react-bootcamp)
 - [React Fundamentals](https://frontarm.com/courses/react-fundamentals/)
 
-### React Roadmap:
+#### React Roadmap:
 - [Master React](https://roadmap.sh/react)
-
-# React Essentials:
-- [Design pattern intro by (Mohamed Abusrea) (Video)](https://www.youtube.com/watch?v=fUBp_yy_O6I)
-- [(Overview of React.js | Design Patterns in javascript) (Video)](https://www.youtube.com/watch?v=8W-vkJC6nHI)
-- [Redux (Video)](https://www.youtube.com/watch?v=w9ghRG9Foiw)
 
 # Problem Solving Notes:
 - [Read this (readme)](https://github.com/RaheemAmer/Learn-Programming/blob/main/Problem-solving.md)
 - [ArabicCompetitiveProgramming (Repo)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming)
 - [Problem-Solving-Training (Repo)](https://github.com/RaheemAmer/Problem-Solving-Training)
 
-# Problem Solving Websites:
+### Problem Solving Websites:
 - [Coderhub](https://coderhub.sa/home)
 - [Topcoder](https://www.topcoder.com/)
 - [Coderbyte](https://www.coderbyte.com/)
