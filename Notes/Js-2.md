@@ -381,10 +381,12 @@ sum = undefined => sum:6    var sum = a + b; => sum = 2 + 4; = > sum = 6;
                             console.log(sum);
 
 does the same until it reaches a function then creates a memory and code table again in the code section (Call stack)
+
 function square(num) {
     var ans = num + num;
     return ans;
 } 
+
 Memory -                    Code
 num = undefined => num : 2-     var num = n > var num = 2
 ans = undefined => ans: 16      var ans = num * num > var ans = 4 * 4 >  var ans = 16; 
