@@ -64,6 +64,8 @@
 - [Make some waves!](https://getwaves.io/)
 - [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
 - [BEM](https://en.bem.info/methodology/quick-start/)
+- [JavaScript: Primitive Types vs Reference Types Part 1](https://youtu.be/hnsA0Y5MHDE)
+- [Javascript: Primitive Types vs Reference Types - Part 2](https://www.youtube.com/watch?v=U_WwLiTKM7I)
 
 # Javascript:
 ### Videos:
