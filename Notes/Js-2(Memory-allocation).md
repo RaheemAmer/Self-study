@@ -209,6 +209,25 @@ node --expose-gc --inspect index.js
 
 ------------------------------
 
+## Memory Life Cycle
+
+- Allocate
+- Use
+- Release
+
+There are two types of memory storage
+
+1. stack[static memory allocation], that's why we use let and const to make block level to not affect the memory and create memory leak and when the operation has ended, it will be extracted from the stack
+2. heap[dynamic memory allocation], they can't be determined at the compile time but during the runtime we can[storing the object in stack and(by pointing-referenced) value in heap]
+
+<p>
+Compile time is the period when the programming code (such as C#, Java, C, Python) is converted to the machine code (i.e. binary code).
+Runtime is the period of time when a program is running and generally occurs after compile time.
+</p>
+
+Garbage collection(Reference-counting)
+Cyclic References Problem
+
 <p>
 <code>console.log(myname);var myname= "Ammar"</code>
 
@@ -342,7 +361,7 @@ There are times when it would be convenient to manually decide when and what mem
 
 ----------------------
 
-"Everything in JavaScript happens inside an Execution Context." 
+"Everything in JavaScript happens inside an Execution Context."
 
 In this container(JavaScript), there are two components
 
@@ -385,11 +404,11 @@ does the same until it reaches a function then creates a memory and code table a
 function square(num) {
     var ans = num + num;
     return ans;
-} 
+}
 
 Memory -                    Code
 num = undefined => num : 2-     var num = n > var num = 2
-ans = undefined => ans: 16      var ans = num * num > var ans = 4 * 4 >  var ans = 16; 
+ans = undefined => ans: 16      var ans = num _num > var ans = 4_ 4 >  var ans = 16;
 
 JavaScript manages code execution context creation and deletion with the the help of Call Stack.
 
@@ -425,7 +444,7 @@ return = return the value to the place where the function has been invoked
 a call stack is initiated whenever we run a program in javascript
 
 global execution context is created
-and it parses line by line , when a function is invoked it's named e1 and then an execution context is created and after it finished it's popped out of the call stack, and a new function being invoked is called e1 and then a new execution context is being created 
+and it parses line by line , when a function is invoked it's named e1 and then an execution context is created and after it finished it's popped out of the call stack, and a new function being invoked is called e1 and then a new execution context is being created
 
 Call stack maintains the order of execution of execution context
 
