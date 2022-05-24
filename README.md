@@ -140,7 +140,7 @@
 
 ### SSR - CSR- SSG - ISR:
 - [Topic3 - SSR - CSR- SSG - ISR - Video](https://www.youtube.com/watch?v=kL6KVTHtW-s)
-- [Topic3 - SSR - CSR- SSG - ISR - Course](https://www.skillshare.com/classes/Next-js-for-Beginners-Learn-the-fundamentals-of-Next-js/1612012397?discount=Q4ETG&teacherRef=282493&via=free-enrollment&utm_campaign=teacher-discount-1612012397&utm_source=ShortUrl&utm_medium=teacher-discount)
+- [Topic3 - SSR - CSR- SSG - ISR - NEXT.JS -  Course](https://www.skillshare.com/classes/Next-js-for-Beginners-Learn-the-fundamentals-of-Next-js/1612012397?discount=Q4ETG&teacherRef=282493&via=free-enrollment&utm_campaign=teacher-discount-1612012397&utm_source=ShortUrl&utm_medium=teacher-discount)
 - [Topic3 - SSR - CSR- SSG - ISR - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic3.md)
 
 ### Overview on React:
