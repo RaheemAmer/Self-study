@@ -17,16 +17,68 @@
 - Array
 - Object
 - Function
+- Date
 
 ## What is Primitive Data Types?
 
-- stored in our memory on the stack(Stack of data) and this type od memory can be accessed really quick and very limited too but doesn't have much information nor space but it's very fast
-- variable knows the value(WE get copies)
+- stored in our memory on the [stack](Stack of data) and this type od memory can be accessed really quick and very limited too but doesn't have much information nor space but it's very fast
+- variable knows the value(WE get copies), [pass by value or reference by value], re-assign value to variable
+- Primitive means basic, data that is not an object and has no methods, are [immutable]
 
 ## What is Non - Primitive (Reference) Data Types?
 
-- stored on the heap, takes a little bit longer to be accessed, holds more info and data, not short living like the stack, suitable for dynamic data changes
-- variable knows the pointer pointing at the location
+- stored on the [heap], takes a little bit longer to be accessed, holds more info and data, not short living like the stack, suitable for dynamic data changes
+- variable knows the pointer pointing at the location, [pass by reference or pass by object]
+- variable points towards the reference and the the value of the variable stored in the memory also point to the same reference
+
+So, if we assigned const ```val1 = 2``` and then made ```val2 = val1``` val1 and val2 both are connected to the same reference point of val 1, that the val1 values points to the same reference, and this means if anything is changed in val1 value, due to val2 also points to the same reference of val1, then it's value will be changed
+
+## Example
+
+Non-primitive allows mutability, here we can access names array and push another name to the array, no need to re-assign to add another value to the array, we just used the method push
+
+```let names = ["Raheem"]; names.push("Emad"); console.log(names)```
+
+Using [Bracket-notation] to point to the location of the value and change it's value
+
+```names[0] = "Amer"; console.log(names);```
+
+What happened?
+
+I accessed the memory, and looked for the position of the array in the memory, then created a pointer which helped me in changing the first value of the array
+
+I didn't dismantle the array, didn't re-assign, accessed heap => this is [mutate] while in immutable data types, to change a value, we have to re-assign the value
+
+## Note
+
+When we store a string on the memory, it's stored in an array[array 0f characters]
+
+## Example
+
+```let name = "kareem"; name = "karim"```
+
+I made it point to a different location instead of changing the value on the same location
+
+## How to break the cycle of immutability in non-primitive data types?
+
+Clone elements of variable without getting the references of it, just the values of it
+
+```name1= ["test","test2"]; const name3 = object.assign([],names1)```
+
+now even if we added new elements to names1, nothing will be added into name3
+
+there is a new method to use in ES6 instead of object.assign
+
+## note
+
+If i want to make this variable, doesn't allow cloning nor editing it
+It will give error, cannot add property object
+
+```object.freeze(names1)```
+
+```names1.push("2")```
+
+-------------------------------------
 
 ### Declare a variable
 
@@ -61,6 +113,8 @@ Using the assignment operator (=) => ```myName = "Raheem";```
 - In JavaScript, String values are immutable, which means that they cannot be altered once created.
 - Store multiple values in one place using array
 - Modify array as it's mutable even if we used const, using bracket notations
+- Don't mutate the state
+- Spread operator clones the first level only, doesn't do deep clone
 
 <p>
 This stands since the beginning of JavaScript
