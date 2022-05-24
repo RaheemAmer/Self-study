@@ -51,12 +51,13 @@
 - [How to Report Errors in Forms](https://www.nngroup.com/articles/errors-forms-design-guidelines/)
 - [15 Best JavaScript (JS) UI Libraries to Build Modern Applications](https://geekflare.com/best-javascript-ui-libraries/)
 
-# Awesome Resources:
+# Awesome Resources and Cool Topics:
 - [Flexbox Patterns](https://flexboxpatterns.com/)
 - [Flexbox Ninja](https://flexbox.ninja/)
 - [Flexbox-Playground](https://flexbox.tech/)
 - [Contrib-Rocks](https://contrib.rocks/preview)
 - [Make some waves!](https://getwaves.io/)
+- [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
 
 # Courses:
 ### Javascript:
