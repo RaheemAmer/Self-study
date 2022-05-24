@@ -50,6 +50,8 @@
 - [Your Old Laptop Is Your New Database Server](https://dzone.com/articles/your-old-laptop-is-your-new-database-server)
 - [How to Report Errors in Forms](https://www.nngroup.com/articles/errors-forms-design-guidelines/)
 - [15 Best JavaScript (JS) UI Libraries to Build Modern Applications](https://geekflare.com/best-javascript-ui-libraries/)
+- [The Difference Between Design Systems, Pattern Libraries, Style Guides & Component Libraries](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
+- [Design System vs Pattern Library vs Style Guide / A Single Source of Truth](https://www.unitygroup.com/blog/design-system-vs-pattern-library-vs-style-guide-a-single-source-of-truth/)
 
 # Awesome Resources and Cool Topics:
 - [Flexbox Patterns](https://flexboxpatterns.com/)
