@@ -57,6 +57,7 @@
 - [Understand MVC Architecture in 5 mins](https://www.crio.do/blog/understand-mvc-architecture/)
 - [Trendy Javascript Project](https://www.crio.do/blog/fresh-and-trendy-javascript-projects-for-beginners/)
 - [Memory_Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
+- [How-Javascript-Works-Visually-Explained](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
 
 # Awesome Resources and Cool Topics:
 - [Flexbox Patterns](https://flexboxpatterns.com/)
