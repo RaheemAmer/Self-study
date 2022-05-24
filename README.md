@@ -77,6 +77,7 @@
 - [JavaScript: Primitive Types vs Reference Types Part 1](https://youtu.be/hnsA0Y5MHDE)
 - [Javascript: Primitive Types vs Reference Types - Part 2](https://www.youtube.com/watch?v=U_WwLiTKM7I)
 - [How JavaScript Works 🔥& Execution Context](https://www.youtube.com/watch?v=ZvbzSrg0afE&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=2)
+- [Memory Management & Garbage Collection](https://www.youtube.com/watch?v=DIzouoy13UM)
 
 ##### Repos:
 - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
