@@ -100,6 +100,7 @@
 - [Learn React](https://www.codecademy.com/learn/react-101)
 - [The Free React Bootcamp](https://ui.dev/free-react-bootcamp)
 - [React Fundamentals](https://frontarm.com/courses/react-fundamentals/)
+- [kimz codes](https://www.youtube.com/channel/UC-MNF_TXywelItd7M8d-uHA/playlists)
 
 #### React Roadmap:
 - [Master React](https://roadmap.sh/react)
