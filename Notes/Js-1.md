@@ -18,6 +18,7 @@
 - Object
 - Function
 - Date
+- Regex
 
 ## What is Primitive Data Types?
 
@@ -131,3 +132,31 @@ However, this becomes a problem if you need to use the outermost quotes within i
 ### Note
 
 It is common for developers to use uppercase variable identifiers for immutable values and lowercase or camelCase for mutable values (objects and arrays)
+
+## 5 Advanced JavaScript concepts that will make you a better developer
+
+- Currying
+- Composition
+- Closures
+- Coalescing
+- Reflect
+
+## Memory Life Cycle
+
+- Allocate
+- Use
+- Release
+
+There are two types of memory storage
+
+1. stack[static memory allocation], that's why we use let and const to make block level to not affect the memory and create memory leak and when the operation has ended, it will be extracted from the stack
+2. heap[dynamic memory allocation], they can't be determined at the compile time but during the runtime we can[storing the object in stack and(by pointing-referenced) value in heap]
+
+<p>
+Compile time is the period when the programming code (such as C#, Java, C, Python) is converted to the machine code (i.e. binary code).
+Runtime is the period of time when a program is running and generally occurs after compile time.
+</p>
+
+Garbage collection(Reference-counting)
+Cyclic References Problem
+
