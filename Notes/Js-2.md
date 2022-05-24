@@ -1,133 +1,3 @@
-<p>
-<code>console.log(myname);var myname= "Ammar"</code>
-
-Logically; Line 1 should throw an error (Uncaught reference error), as we are attempting to access a variable that does not exist (yet) in memory.
-
-Instead we get undefined: A primitive type given by the JS engine to variables which have been declared but not assigned.
-</p>
-
-<p>
-The execution context is created in two phases:
-
-a) The Creation Phase
-
-b)The Execution Phase.
-
------------------------------
-
-1) The Creation Phase
-
-Memory space is Setup for:
-
-    Variables (which are set to undefined) and functions (In its entirety , including name and code properties).
-    this variable
-    Reference to the outer environment (the global object in the case of the global execution context.
-
-2) The Execution Phase (global and functional)
-
-Code is executed Line by Line.
-</p>
-
-<p>
-console.log(myname);var myname= "Ammar"
-
-    Phase 1:
-
-    Space in memory is set for the variable myname and its value is set to undefined.
-
-    Phase 2:
-
-    Code is executed line bye line:
-
-Line 1 :console.log(myname); this method will look for the variable myname in memory within its scope (the global scope in this case) to log it.
-
-myname is found in memory with a value of undefined , so undefined is printed onto the console.
-
-Line 2:var myname= “Ammar”; The value of “Ammar” replaces undefined in the memory location of myname .
-
-But by then it’s too late; because we’ve already printed out undefined .
-</p>
-
-<p>
-    When the JS engine encounters your code; it will create an execution context (An abstract concept describing the environment where your current code is being executed and variables are stored).
-    There are 2 types of execution contexts: global and functional.
-    A global context contains a variable environment (where variables and functions in the current execution context live), a reference to the outer environment , a “this” keyword binding and a global object (only in the case of global execution context).
-    The reference to the outer environment component of the execution context refers to our ability in accessing a variable that is not available within the current execution context.
-</p>
-
-<p>
-- For the global execution context; The reference to the outer environment is null.
-
-- For the functional execution context; The reference to the outer environment is the execution context one level lower on the execution stack.
-
-</p>
-
-<p>
-Memory Management
-
-Low-level languages like C, have manual memory management primitives such as malloc() and free(). In contrast, JavaScript automatically allocates memory when objects are created and frees it when they are not used anymore (garbage collection). This automaticity is a potential source of confusion: it can give developers the false impression that they don't need to worry about memory management.
-</p>
-
-<P>
-Allocation in JavaScript
-Value initialization
-
-In order to not bother the programmer with allocations, JavaScript will automatically allocate memory when values are initially declared.
-</P>
-
-<p>
-Low-level languages require the developer to manually determine at which point in the program the allocated memory is no longer needed and to release it.
-
-Some high-level languages, such as JavaScript, utilize a form of automatic memory management known as garbage collection (GC). The purpose of a garbage collector is to monitor memory allocation and determine when a block of allocated memory is no longer needed and reclaim it. This automatic process is an approximation since the general problem of determining whether or not a specific piece of memory is still needed is undecidable.
-</p>
-
-<p>
-Garbage collection algorithms
-
-As stated above, the general problem of automatically finding whether some memory "is not needed anymore" is undecidable. As a consequence, garbage collectors implement a restriction of a solution to the general problem. This section will explain the concepts that are necessary for understanding the main garbage collection algorithms and their respective limitations.
-</p>
-
-<p>
-References
-
-The main concept that garbage collection algorithms rely on is the concept of reference. Within the context of memory management, an object is said to reference another object if the former has access to the latter (either implicitly or explicitly). For instance, a JavaScript object has a reference to its prototype (implicit reference) and to its properties values (explicit reference).
-</p>
-
-<p>
-Reference-counting garbage collection
-
-This is the most naive garbage collection algorithm. This algorithm reduces the problem from determining whether or not an object is still needed to determining if an object still has any other objects referencing it. An object is said to be "garbage", or collectible if there are zero references pointing to it.
-</p>
-
-<p>
-Limitation: Circular references
-
-There is a limitation when it comes to circular references. In the following example, two objects are created with properties that reference one another, thus creating a cycle. They will go out of scope after the function call has completed. At that point they become unneeded and their allocated memory should be reclaimed. However, the reference-counting algorithm will not consider them reclaimable since each of the two objects has at least one reference pointing to them, resulting in neither of them being marked for garbage collection. Circular references are a common cause of memory leaks.
-</p>
-
-<p>
-Mark-and-sweep algorithm
-
-This algorithm reduces the definition of "an object is no longer needed" to "an object is unreachable".
-
-This algorithm assumes the knowledge of a set of objects called roots. In JavaScript, the root is the global object. Periodically, the garbage collector will start from these roots, find all objects that are referenced from these roots, then all objects referenced from these, etc. Starting from the roots, the garbage collector will thus find all reachable objects and collect all non-reachable objects.
-
-This algorithm is an improvement over the previous one since an object having zero references is effectively unreachable. The opposite does not hold true as we have seen with circular references.
-
-As of 2012, all modern browsers ship a mark-and-sweep garbage-collector. All improvements made in the field of JavaScript garbage collection (generational/incremental/concurrent/parallel garbage collection) over the last few years are implementation improvements of this algorithm, but not improvements over the garbage collection algorithm itself nor its reduction of the definition of when "an object is no longer needed".
-Cycles are no longer a problem
-
-In the first example above, after the function call returns, the two objects are no longer referenced by any resource that is reachable from the global object. Consequently, they will be found unreachable by the garbage collector and have their allocated memory reclaimed.
-Limitation: Releasing memory manually
-
-There are times when it would be convenient to manually decide when and what memory is released. In order to release the memory of an object, it needs to be made explicitly unreachable.
-
-As of 2019, it is not possible to explicitly or programmatically trigger garbage collection in JavaScript.
-
-Limitation: Releasing memory manually
-
-There are times when it would be convenient to manually decide when and what memory is released. In order to release the memory of an object, it needs to be made explicitly unreachable.
-</p>
 ---
 title: Memory Management
 slug: Web/JavaScript/Memory_Management
@@ -337,9 +207,141 @@ node --expose-gc --inspect index.js
 
 - [Kangax article on how to register event handler and avoid memory leaks (2010)](https://docs.microsoft.com/en-us/previous-versions/msdn10/ff728624(v=msdn.10))
 
-----------------------
+------------------------------
+
+<p>
+<code>console.log(myname);var myname= "Ammar"</code>
+
+Logically; Line 1 should throw an error (Uncaught reference error), as we are attempting to access a variable that does not exist (yet) in memory.
+
+Instead we get undefined: A primitive type given by the JS engine to variables which have been declared but not assigned.
+</p>
+
+<p>
+The execution context is created in two phases:
+
+a) The Creation Phase
+
+b)The Execution Phase.
+
+-----------------------------
+
+1) The Creation Phase
+
+Memory space is Setup for:
+
+    Variables (which are set to undefined) and functions (In its entirety , including name and code properties).
+    this variable
+    Reference to the outer environment (the global object in the case of the global execution context.
+
+2) The Execution Phase (global and functional)
+
+Code is executed Line by Line.
+</p>
+
+<p>
+console.log(myname);var myname= "Ammar"
+
+    Phase 1:
+
+    Space in memory is set for the variable myname and its value is set to undefined.
+
+    Phase 2:
+
+    Code is executed line bye line:
+
+Line 1 :console.log(myname); this method will look for the variable myname in memory within its scope (the global scope in this case) to log it.
+
+myname is found in memory with a value of undefined , so undefined is printed onto the console.
+
+Line 2:var myname= “Ammar”; The value of “Ammar” replaces undefined in the memory location of myname .
+
+But by then it’s too late; because we’ve already printed out undefined .
+</p>
+
+<p>
+    When the JS engine encounters your code; it will create an execution context (An abstract concept describing the environment where your current code is being executed and variables are stored).
+    There are 2 types of execution contexts: global and functional.
+    A global context contains a variable environment (where variables and functions in the current execution context live), a reference to the outer environment , a “this” keyword binding and a global object (only in the case of global execution context).
+    The reference to the outer environment component of the execution context refers to our ability in accessing a variable that is not available within the current execution context.
+</p>
+
+<p>
+- For the global execution context; The reference to the outer environment is null.
+
+- For the functional execution context; The reference to the outer environment is the execution context one level lower on the execution stack.
+
+</p>
+
+<p>
+Memory Management
+
+Low-level languages like C, have manual memory management primitives such as malloc() and free(). In contrast, JavaScript automatically allocates memory when objects are created and frees it when they are not used anymore (garbage collection). This automaticity is a potential source of confusion: it can give developers the false impression that they don't need to worry about memory management.
+</p>
 
 <P>
+Allocation in JavaScript
+Value initialization
+
+In order to not bother the programmer with allocations, JavaScript will automatically allocate memory when values are initially declared.
+</P>
+
+<p>
+Low-level languages require the developer to manually determine at which point in the program the allocated memory is no longer needed and to release it.
+
+Some high-level languages, such as JavaScript, utilize a form of automatic memory management known as garbage collection (GC). The purpose of a garbage collector is to monitor memory allocation and determine when a block of allocated memory is no longer needed and reclaim it. This automatic process is an approximation since the general problem of determining whether or not a specific piece of memory is still needed is undecidable.
+</p>
+
+<p>
+Garbage collection algorithms
+
+As stated above, the general problem of automatically finding whether some memory "is not needed anymore" is undecidable. As a consequence, garbage collectors implement a restriction of a solution to the general problem. This section will explain the concepts that are necessary for understanding the main garbage collection algorithms and their respective limitations.
+</p>
+
+<p>
+References
+
+The main concept that garbage collection algorithms rely on is the concept of reference. Within the context of memory management, an object is said to reference another object if the former has access to the latter (either implicitly or explicitly). For instance, a JavaScript object has a reference to its prototype (implicit reference) and to its properties values (explicit reference).
+</p>
+
+<p>
+Reference-counting garbage collection
+
+This is the most naive garbage collection algorithm. This algorithm reduces the problem from determining whether or not an object is still needed to determining if an object still has any other objects referencing it. An object is said to be "garbage", or collectible if there are zero references pointing to it.
+</p>
+
+<p>
+Limitation: Circular references
+
+There is a limitation when it comes to circular references. In the following example, two objects are created with properties that reference one another, thus creating a cycle. They will go out of scope after the function call has completed. At that point they become unneeded and their allocated memory should be reclaimed. However, the reference-counting algorithm will not consider them reclaimable since each of the two objects has at least one reference pointing to them, resulting in neither of them being marked for garbage collection. Circular references are a common cause of memory leaks.
+</p>
+
+<p>
+Mark-and-sweep algorithm
+
+This algorithm reduces the definition of "an object is no longer needed" to "an object is unreachable".
+
+This algorithm assumes the knowledge of a set of objects called roots. In JavaScript, the root is the global object. Periodically, the garbage collector will start from these roots, find all objects that are referenced from these roots, then all objects referenced from these, etc. Starting from the roots, the garbage collector will thus find all reachable objects and collect all non-reachable objects.
+
+This algorithm is an improvement over the previous one since an object having zero references is effectively unreachable. The opposite does not hold true as we have seen with circular references.
+
+As of 2012, all modern browsers ship a mark-and-sweep garbage-collector. All improvements made in the field of JavaScript garbage collection (generational/incremental/concurrent/parallel garbage collection) over the last few years are implementation improvements of this algorithm, but not improvements over the garbage collection algorithm itself nor its reduction of the definition of when "an object is no longer needed".
+Cycles are no longer a problem
+
+In the first example above, after the function call returns, the two objects are no longer referenced by any resource that is reachable from the global object. Consequently, they will be found unreachable by the garbage collector and have their allocated memory reclaimed.
+Limitation: Releasing memory manually
+
+There are times when it would be convenient to manually decide when and what memory is released. In order to release the memory of an object, it needs to be made explicitly unreachable.
+
+As of 2019, it is not possible to explicitly or programmatically trigger garbage collection in JavaScript.
+
+Limitation: Releasing memory manually
+
+There are times when it would be convenient to manually decide when and what memory is released. In order to release the memory of an object, it needs to be made explicitly unreachable.
+</p>
+
+----------------------
+
 "Everything in JavaScript happens inside an Execution Context." 
 
 In this container(JavaScript), there are two components
@@ -348,4 +350,82 @@ In this container(JavaScript), there are two components
  2. Code component (container where code is executed one line at a time and has a fancy name 'Thread of Execution'.)
 
 JavaScript is a [synchronous], [single-threaded-language]. It is because it can only execute one command at a time and in a specific order.
-</P>
+
+When we make this
+var a = 2;
+var b = 4;
+
+var sum = a + b;
+
+console.log(sum);
+
+javascript create two things in the execution phase
+Memory - Code
+a = undefined -
+b = undefined -
+sum = undefined -
+
+The Browser will execute the JavaScript code in two-phase
+1> Memory Creation Phase
+2> Code Execution Phase
+
+In the memory creation phase, JavaScript will scan through all the code and allocate memory to all the variables and functions in the code. For variables, JavaScript will store undefined in the memory creation phase, and for functions, it will keep the entire function code, which we will be looking at the following example.
+
+Variables => undefined in memory
+Functions => store entire function code in memory
+
+Memory -                    Code
+a = undefined => a : 2-     var a = 2
+b = undefined => b:4        var b = 4;
+sum = undefined => sum:6    var sum = a + b; => sum = 2 + 4; = > sum = 6;
+                            console.log(sum);
+
+does the same until it reaches a function then creates a memory and code table again in the code section (Call stack)
+function square(num) {
+    var ans = num + num;
+    return ans;
+} 
+Memory -                    Code
+num = undefined => num : 2-     var num = n > var num = 2
+ans = undefined => ans: 16      var ans = num * num > var ans = 4 * 4 >  var ans = 16; 
+
+JavaScript manages code execution context creation and deletion with the the help of Call Stack.
+
+A stack (sometimes called a “push-down stack”) is an ordered collection of items where the addition of new items and the removal of existing items always takes place at the same end eg. stack of books.
+
+Call Stack is a mechanism to keep track of its place in a script that calls multiple functions.
+
+function a() {
+    function insideA() {
+        return true;
+    }
+    insideA();
+}
+a();
+
+---------------------------------
+
+the table that's being created for execution is called execution context (Because of the global execution )
+and whole of this is called call stack
+
+two phases
+memory allocation
+finding all the variables and functions and giving them key value kind of, with value undefined
+
+execution phase
+in function function myName(n)
+[n ]is a parameter
+square(n), function with parenthesis = function is being invoked
+[n] here is an argument
+
+return = return the value to the place where the function has been invoked
+
+a call stack is initiated whenever we run a program in javascript
+
+global execution context is created
+and it parses line by line , when a function is invoked it's named e1 and then an execution context is created and after it finished it's popped out of the call stack, and a new function being invoked is called e1 and then a new execution context is being created 
+
+Call stack maintains the order of execution of execution context
+
+call stack has other names (execution context stack, program stack, control stack, runtime stack, machine stack)
+<P>
