@@ -65,11 +65,14 @@
 - [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
 - [BEM](https://en.bem.info/methodology/quick-start/)
 
+
 # Javascript:
 ### Videos:
 - [JavaScript - Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)
 - [Null vs Undefined - Beau teaches JavaScript](https://www.youtube.com/watch?v=VwaqJy_clnc)
 - [ES6 Tutorial: Learn Modern JavaScript for beginner | Most of Javascript Interviews Questions](https://www.youtube.com/watch?v=w3ZwgdgCigM&t=204s)
+- [JavaScript: Primitive Types vs Reference Types Part 1](https://youtu.be/hnsA0Y5MHDE)
+- [Javascript: Primitive Types vs Reference Types - Part 2](https://www.youtube.com/watch?v=U_WwLiTKM7I)
 
 ##### Repos:
 - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
@@ -100,6 +103,7 @@
 - [Learn React](https://www.codecademy.com/learn/react-101)
 - [The Free React Bootcamp](https://ui.dev/free-react-bootcamp)
 - [React Fundamentals](https://frontarm.com/courses/react-fundamentals/)
+- [kimz codes](https://www.youtube.com/channel/UC-MNF_TXywelItd7M8d-uHA/playlists)
 
 #### React Roadmap:
 - [Master React](https://roadmap.sh/react)
