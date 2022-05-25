@@ -17,7 +17,9 @@
 ### Self-Notes
 
 - [List of courses finished](https://github.com/RaheemAmer/Self-study/tree/main/Courses-Finished)
-- [List of companies with their stack](http://stackinfo.me/)
+- [List of Egyptian based companies with their stack](http://stackinfo.me/)
+- [List of Egyptian based companies with their contact details](https://docs.google.com/spreadsheets/d/10QVCFAYYDMIvQNkR2t4q53hVfjEDHPzM/htmlview)
+
 
 # Podcasts
 
