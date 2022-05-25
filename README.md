@@ -58,6 +58,7 @@
 - [Trendy Javascript Project](https://www.crio.do/blog/fresh-and-trendy-javascript-projects-for-beginners/)
 - [Memory_Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
 - [How-Javascript-Works-Visually-Explained](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
+- [Callback](https://stackoverflow.com/questions/25098066/what-is-callback-hell-and-how-and-why-does-rx-solve-it)
 
 # Awesome Resources and Cool Topics:
 - [Flexbox Patterns](https://flexboxpatterns.com/)
