@@ -1,4 +1,5 @@
-# Self-study repos and notes:
+# Self-study repos and notes
+
 - [Repo1 - Open Source Communities](https://github.com/RaheemAmer/Prepare-for-Girl-script-code-and-google-summer-of-code)
 - [Repo2 - Projects](https://github.com/RaheemAmer/Frontend-Projects)
 - [Repo3 -  Internship-Tasks](https://github.com/RaheemAmer/Internship-Tasks)
@@ -13,11 +14,13 @@
 - [Repo12 - Side-Projects](https://github.com/RaheemAmer/Side-projects)
 - [Repo13 - All Internships Available](https://github.com/ACM-Alexandria-SC/Internships)
 
-### Self-Notes:
+### Self-Notes
+
 - [List of courses finished](https://github.com/RaheemAmer/Self-study/tree/main/Courses-Finished)
 - [List of companies with their stack](http://stackinfo.me/)
 
-# Podcasts:
+# Podcasts
+
 - [Null++:بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
 - [AskDeveloperPodcast](https://open.spotify.com/show/6G8gqVH6dW3fkMlFmuMEoR?si=bad2d2e48d4d4f8e)
 - [قهوة عصام](https://open.spotify.com/show/57b34WqXbbPpyIJKxcQqii?si=890f04575a6a4452)
@@ -37,12 +40,14 @@
 - [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=811b8c6156254b1a)
 - [Responsive Design Podcast](https://open.spotify.com/show/7ihIkUSzDnPueeGZN0lTY5?si=3a58e657c7d245f9)
 
-# Books:
+# Books
+
 - [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/dp/0999081446/ref=cm_sw_r_as_gl_api_gl_i_MH2BPGRVF9E4AXXTKXS4)
 - [Basecamp Employee Handbook](https://basecamp.com/handbook/08-getting-started?utm_campaign=Nullplusplus+Episode)
 - [Learning Patterns](https://www.patterns.dev/)
 
-# Articles:
+# Articles
+
 - [Master While Traveling In The Dom Desert](https://levelup.gitconnected.com/becoming-a-js-eventlistener-master-while-traveling-in-the-dom-desert-e6f93226064e)
 - [Simplified Thinking Like a Software Engineer](https://andreda-mind.medium.com/simplified-thinking-like-a-software-engineer-part-1-43bfc45c20ba)
 - [كيف تجتاز فتره الاختبار بنجاح](http://alaa.ninja/software%20engineering/2022/04/18/how-to-nail-your-onboarding.html?fbclid=IwAR2ATmW7sJsBCWml-o3dAIRWm6_bHG8Lz_kNelmgwBC5_gdJmk6DWVfpvU0)
@@ -60,8 +65,10 @@
 - [How-Javascript-Works-Visually-Explained](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
 - [Callback](https://stackoverflow.com/questions/25098066/what-is-callback-hell-and-how-and-why-does-rx-solve-it)
 - [Jquery](https://code.tutsplus.com/tutorials/what-is-jquery--cms-26232)
+- [Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly)](https://deepu.tech/memory-management-in-v8/)
 
-# Awesome Resources and Cool Topics:
+# Awesome Resources and Cool Topics
+
 - [Flexbox Patterns](https://flexboxpatterns.com/)
 - [Flexbox Ninja](https://flexbox.ninja/)
 - [Flexbox-Playground](https://flexbox.tech/)
@@ -71,8 +78,10 @@
 - [BEM](https://en.bem.info/methodology/quick-start/)
 - [CMS Using React](https://reactbricks.com/)
 
-# Javascript:
-### Videos:
+# Javascript
+
+### Videos
+
 - [JavaScript - Reference vs Primitive Values/ Types](https://www.youtube.com/watch?v=9ooYYRLdg_g)
 - [Null vs Undefined - Beau teaches JavaScript](https://www.youtube.com/watch?v=VwaqJy_clnc)
 - [ES6 Tutorial: Learn Modern JavaScript for beginner | Most of Javascript Interviews Questions](https://www.youtube.com/watch?v=w3ZwgdgCigM&t=204s)
@@ -81,7 +90,8 @@
 - [How JavaScript Works 🔥& Execution Context](https://www.youtube.com/watch?v=ZvbzSrg0afE&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=2)
 - [Memory Management & Garbage Collection](https://www.youtube.com/watch?v=DIzouoy13UM)
 
-##### Repos:
+##### Repos
+
 - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [Javascript-Questions](https://github.com/lydiahallie/javascript-questions)
 - [Awesome-Javascript-Learning](https://github.com/micromata/awesome-javascript-learning)
@@ -92,13 +102,14 @@
 - [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
 - [Computer-Science-In-Javascript](https://github.com/humanwhocodes/computer-science-in-javascript)
 
+# React Essentials
 
-# React Essentials:
 - [Design pattern intro by (Mohamed Abusrea) (Video)](https://www.youtube.com/watch?v=fUBp_yy_O6I)
 - [(Overview of React.js | Design Patterns in javascript) (Video)](https://www.youtube.com/watch?v=8W-vkJC6nHI)
 - [Redux (Video)](https://www.youtube.com/watch?v=w9ghRG9Foiw)
 
-### React:
+### React
+
 - [Full Stack Open](https://fullstackopen.com/en/)
 - [Learn React for free](https://scrimba.com/learn/learnreact)
 - [React Docs](https://beta.reactjs.org/)
@@ -112,58 +123,69 @@
 - [React Fundamentals](https://frontarm.com/courses/react-fundamentals/)
 - [kimz codes](https://www.youtube.com/channel/UC-MNF_TXywelItd7M8d-uHA/playlists)
 
-#### React Roadmap:
+#### React Roadmap
+
 - [Master React](https://roadmap.sh/react)
 
-# Problem Solving Notes:
+# Problem Solving Notes
+
 - [Read this (readme)](https://github.com/RaheemAmer/Learn-Programming/blob/main/Problem-solving.md)
 - [ArabicCompetitiveProgramming (Repo)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming)
 - [Problem-Solving-Training (Repo)](https://github.com/RaheemAmer/Problem-Solving-Training)
 
-### Problem Solving Websites:
-- [Coderhub](https://coderhub.sa/home)
-- [Topcoder](https://www.topcoder.com/)
-- [Coderbyte](https://www.coderbyte.com/)
-- [Project-Euler](https://projecteuler.net/)
-- [Hackerrank](https://www.hackerrank.com)
-- [Codechef](https://www.codechef.com/)
-- [Exercism](https://exercism.org/)
-- [Codewars](https://www.codewars.com/)
-- [Leetcode](https://leetcode.com/)
-- [Spoj](https://www.spoj.com/)
-- [Codingame](https://www.codingame.com/start)
+### Problem Solving Websites
 
-# Cool Videos:
+- [CoderHub](https://coderhub.sa/home)
+- [TopCoder](https://www.topcoder.com/)
+- [CoderByte](https://www.coderbyte.com/)
+- [Project-Euler](https://projecteuler.net/)
+- [HackerRank](https://www.hackerrank.com)
+- [CodeChef](https://www.codechef.com/)
+- [Exercism](https://exercism.org/)
+- [CodeWars](https://www.codewars.com/)
+- [LeetCode](https://leetcode.com/)
+- [Spoj](https://www.spoj.com/)
+- [CodinGame](https://www.codingame.com/start)
+
+# Cool Videos
+
 - [Story of React](https://www.youtube.com/watch?v=Wm_xI7KntDs)
 - [Vue Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)
 - [The Story of Concurrent React](https://www.youtube.com/watch?v=NZoRlVi3MjQ)
 - [What is CORS? | Cross-Origin Resource Sharing | CORS Explained](https://www.youtube.com/watch?v=h-WtIT6gCBk)
 
-# Prepare For Interviews:
+# Prepare For Interviews
+
 - [fullsSackCafe](https://www.fullstack.cafe/)
 
-# Topics:
-### Color theory:
-- [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90) 
+# Topics
+
+### Color theory
+
+- [Topic1 - Color theory](https://youtu.be/AvgCkHrcj90)
 - [Topic1 - Color theory - Another Video](https://youtu.be/Qj1FK8n7WgY)
 - [Topic1 - Color theory - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic1.md)
 
-### Computer Architecture:
+### Computer Architecture
+
 - [Topic2 - Computer Architecture - Video](https://www.youtube.com/watch?v=GRInNLx3Tug)
 - [Topic2 - Computer Architecture - Another Video](https://www.youtube.com/watch?v=HEjPop-aK_w)
 - [Topic2 - Computer Architecture - Article](https://www.dummies.com/article/academics-the-arts/study-skills-test-prep/cissp/computer-architecture-cissp-exam-254885/)
 - [Topic2 - Computer Architecturey - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic2.md)
 
-### SSR - CSR- SSG - ISR:
+### SSR - CSR- SSG - ISR
+
 - [Topic3 - SSR - CSR- SSG - ISR - Video](https://www.youtube.com/watch?v=kL6KVTHtW-s)
 - [Topic3 - SSR - CSR- SSG - ISR - NEXT.JS -  Course](https://www.skillshare.com/classes/Next-js-for-Beginners-Learn-the-fundamentals-of-Next-js/1612012397?discount=Q4ETG&teacherRef=282493&via=free-enrollment&utm_campaign=teacher-discount-1612012397&utm_source=ShortUrl&utm_medium=teacher-discount)
 - [Topic3 - SSR - CSR- SSG - ISR - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic3.md)
 
-### Overview on React:
+### Overview on React
+
 - [Topic4 - Overview on React - Video](https://www.youtube.com/watch?v=8W-vkJC6nHI)
 - [Topic4 - Overview on React - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic4.md)
 
-### Project management and software engineering methodologies:
+### Project management and software engineering methodologies
+
 - [Topic5 - Project Management Fundamentals - Video](https://www.youtube.com/watch?v=6LJLIfRfrts)
 - [Topic5 - What is Scrum? - Video](https://www.youtube.com/watch?v=DbCvs-60ytM)
 - [Topic5 - Scrum Methodology - Video](https://www.youtube.com/watch?v=8dGdIcyDk1w)
