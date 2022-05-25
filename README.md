@@ -66,6 +66,7 @@
 - [Callback](https://stackoverflow.com/questions/25098066/what-is-callback-hell-and-how-and-why-does-rx-solve-it)
 - [Jquery](https://code.tutsplus.com/tutorials/what-is-jquery--cms-26232)
 - [Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly)](https://deepu.tech/memory-management-in-v8/)
+- [Causes of Memory Leaks in JavaScript and How to Avoid Them](https://www.ditdot.hr/en/causes-of-memory-leaks-in-javascript-and-how-to-avoid-them)
 
 # Awesome Resources and Cool Topics
 
