@@ -93,7 +93,11 @@ Using the assignment operator (=) => ```myName = "Raheem";```
 
 - JavaScript has something called Auto [Semi Colon Insertion], semi-colon differs each line from another, minify also javaScript
 - [loosely typed]Doesn't obligate you to declare the type of variable, it's known from it's value
-- [Dynamic language]Allows you to change data-type even after declaring and assigning a value
+- [Dynamic language]Allows you to change data-type even after declaring and assigning a value (Just-in-time (JIT) compilation (also dynamic translation or run-time compilations)is a way of executing computer code that involves compilation during execution of a program (at run time) rather than before execution.)
+- [Functional programming]functions are treated as first-class citizens, meaning that they can be bound to names (including local identifiers), passed as arguments, and returned from other functions, just as any other data type can. This allows programs to be written in a declarative and composable style, where small functions are combined in a modular manner.
+- [Single Threaded language] making progress on more than one task at a time from within a single thread.
+- [Synchronous  language]Parse line by line (occurring at the same time.)
+- [Prototype-based programming language] is a style of object-oriented programming in which behavior reuse (known as inheritance) is performed via a process of reusing existing objects that serve as prototypes.
 - Undefined means the variable is declared but not assigned a value and is assigned automatically by not giving a value
 - Null is an assigned value, we give it to make the variable has no value, javascript never sets a value to null
 - Type of null is object, for legacy reasons it doesn't show the type of null
@@ -140,3 +144,34 @@ It is common for developers to use uppercase variable identifiers for immutable 
 - Closures
 - Coalescing
 - Reflect
+
+## Programming paradigms
+
+- a way to classify programming languages based on their features. Languages can be classified into multiple paradigms.
+
+- Some paradigms are concerned mainly with implications for the execution model of the language, such as allowing side effects, or whether the sequence of operations is defined by the execution model. Other paradigms are concerned mainly with the way that code is organized, such as grouping a code into units along with the state that is modified by the code. Yet others are concerned mainly with the style of syntax and grammar.
+
+## Common programming paradigms include
+
+1. imperative in which the programmer instructs the machine how to change its state,
+    - procedural which groups instructions into procedures,
+    - object-oriented which groups instructions with the part of the state they operate on,
+2. declarative in which the programmer merely declares properties of the desired result, but not how to compute it
+    - functional in which the desired result is declared as the value of a series of function applications,
+    - logic in which the desired result is declared as the answer to a question about a system of facts and rules,
+    - mathematical in which the desired result is declared as the solution of an optimization problem
+    - reactive in- which the desired result is declared with data streams and the propagation of change
+
+### event-driven programming
+
+- is a programming paradigm in which the flow of the program is determined by events
+
+
+### What is the difference between concurrency and parallelism?
+
+- Concurrency is two lines of customers ordering from a single cashier (lines take turns ordering)
+- Parallelism is two lines of customers ordering from two cashiers (each line gets its own cashier).
+
+## Read this
+
+- [What is "callback hell" and how and why does RX solve it?](https://stackoverflow.com/questions/25098066/what-is-callback-hell-and-how-and-why-does-rx-solve-it)
