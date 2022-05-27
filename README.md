@@ -20,7 +20,6 @@
 - [List of Egyptian based companies with their stack](http://stackinfo.me/)
 - [List of Egyptian based companies with their contact details](https://docs.google.com/spreadsheets/d/10QVCFAYYDMIvQNkR2t4q53hVfjEDHPzM/htmlview)
 
-
 # Podcasts
 
 - [Null++:بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
@@ -104,6 +103,7 @@
 - [Javascript](https://github.com/airbnb/javascript)
 - [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
 - [Computer-Science-In-Javascript](https://github.com/humanwhocodes/computer-science-in-javascript)
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 
 # React Essentials
 
