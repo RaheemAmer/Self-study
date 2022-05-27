@@ -104,3 +104,7 @@ alert( Boolean("hello") ); // true
 alert( Boolean("") ); // false
 alert( Boolean("0") ); // true
 alert( Boolean(" ") ); // spaces, also true (any non-empty string is true)</code>
+
+43. Async, Defer, Preload - Note: Async, and Defer are attributes to be used on external scripts. 
+
+44. 

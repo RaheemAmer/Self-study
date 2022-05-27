@@ -68,6 +68,14 @@
 - [Jquery](https://code.tutsplus.com/tutorials/what-is-jquery--cms-26232)
 - [Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly)](https://deepu.tech/memory-management-in-v8/)
 - [Causes of Memory Leaks in JavaScript and How to Avoid Them](https://www.ditdot.hr/en/causes-of-memory-leaks-in-javascript-and-how-to-avoid-them)
+- [C101 Javascript Critical Rendering Path](https://indepth.dev/posts/1498/101-javascript-critical-rendering-path)
+- [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+- [What Sets an Exceptional Programmer Apart From an Ordinary Programme](https://levelup.gitconnected.com/what-sets-an-exceptional-programmer-apart-from-an-ordinary-programmer-73d3fce24e21)
+- [The Most Underrated Technique To Nail Senior Developer Interviews](https://betterprogramming.pub/the-most-underrated-technique-to-nail-senior-developer-interviews-f917025453b7)
+- [The Trickiest Part of Effective Technical Interview](https://medium.com/codex/the-best-part-of-effective-technical-interview-82f2d206c0ef)
+- [The Trickiest Part of Effective Technical Interview](https://medium.com/codex/the-best-part-of-effective-technical-interview-82f2d206c0ef)
+- [Don't Nest Callbacks, Use Promise Chaining Instead](https://hackernoon.com/dont-nest-callbacks-use-promise-chaining-instead?source=rss)
+
 
 # Awesome Resources and Cool Topics
 
