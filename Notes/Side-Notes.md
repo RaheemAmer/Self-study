@@ -78,4 +78,29 @@
 
 34. There are two limitations shared by all the modal methods above: The exact location of the modal window is determined by the browser. Usually, it’s in the center. The exact look of the window also depends on the browser. We can’t modify it.
 
-35. 
+35. Most of the time, operators and functions automatically convert the values given to them to the right type. For example, alert automatically converts any value to a string to show it. Mathematical operations convert values to numbers.
+
+36. ```alert( "6" / "2" );``` // 3, strings are converted to numbers
+
+37. We can use the Number(value) function to explicitly convert a value to a number
+
+38. ```let age = Number("an arbitrary string instead of a number"); || alert(age); // NaN, conversion failed ```
+
+39. <code>undefined  -	NaN
+    null  -	0
+    true and false - 1 and 0
+    string - Whitespaces from the start and end are removed. If the remaining string is empty, the result is 0. Otherwise, the number is “read” from the string. An error gives NaN.</code>
+
+40. Example: <code>alert( Number("   123   ") ); // 123
+alert( Number("123z") );      // NaN (error reading a number at "z")
+alert( Number(true) );        // 1
+alert( Number(false) );       // 0</code>    
+
+41. The Boolean Conversion rule: Values that are intuitively “empty”, like 0, an empty string, null, undefined, and NaN, become false. Other values become true.
+
+42. <code>alert( Boolean(1) ); // true
+alert( Boolean(0) ); // false
+alert( Boolean("hello") ); // true
+alert( Boolean("") ); // false
+alert( Boolean("0") ); // true
+alert( Boolean(" ") ); // spaces, also true (any non-empty string is true)</code>
