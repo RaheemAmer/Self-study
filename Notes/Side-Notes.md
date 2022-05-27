@@ -68,4 +68,14 @@
             alert( `hello ${name}` ); // hello Ilya
     </code>
 
-30. 
+30. Interaction: alert(modal window.), prompt, confirm
+
+31. The visitor can type something in the prompt input field and press OK. Then we get that text in the result. Or they can cancel the input by pressing Cancel or hitting the Esc key, then we get null as the result. The call to prompt returns the text from the input field or null if the input was canceled.
+
+32. ```let age = prompt('How old are you?', 100); || alert(`You are ${age} years old!`); // You are 100 years old!```
+
+33. ```let isBoss = confirm("Are you the boss?"); || alert( isBoss ); // true if OK is pressed```
+
+34. There are two limitations shared by all the modal methods above: The exact location of the modal window is determined by the browser. Usually, it’s in the center. The exact look of the window also depends on the browser. We can’t modify it.
+
+35. 
