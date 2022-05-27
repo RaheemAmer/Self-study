@@ -84,17 +84,17 @@
 
 37. We can use the Number(value) function to explicitly convert a value to a number
 
-38. ```let age = Number("an arbitrary string instead of a number"); || alert(age); // NaN, conversion failed ```
+38. ```let age = Number("an arbitrary string instead of a number"); || alert(age); // NaN, conversion failed```
 
-39. <code>undefined  -	NaN
-    null  -	0
+39. <code>undefined  - NaN
+    null  - 0
     true and false - 1 and 0
     string - Whitespaces from the start and end are removed. If the remaining string is empty, the result is 0. Otherwise, the number is “read” from the string. An error gives NaN.</code>
 
 40. Example: <code>alert( Number("   123   ") ); // 123
 alert( Number("123z") );      // NaN (error reading a number at "z")
 alert( Number(true) );        // 1
-alert( Number(false) );       // 0</code>    
+alert( Number(false) );       // 0</code>
 
 41. The Boolean Conversion rule: Values that are intuitively “empty”, like 0, an empty string, null, undefined, and NaN, become false. Other values become true.
 
@@ -105,6 +105,33 @@ alert( Boolean("") ); // false
 alert( Boolean("0") ); // true
 alert( Boolean(" ") ); // spaces, also true (any non-empty string is true)</code>
 
-43. Async, Defer, Preload - Note: Async, and Defer are attributes to be used on external scripts. 
+43. Async, Defer, Preload - Note: Async, and Defer are attributes to be used on external scripts.
 
-44. 
+44. An operand – is what operators are applied to. For instance, in the multiplication of 5 * 2 there are two operands: the left operand is 5 and the right operand is 2. Sometimes, people call these “arguments” instead of “operands”.
+
+45. Terms: “unary”, “binary”, “operand”
+
+46. The unary plus or, in other words, the plus operator + applied to a single value, doesn’t do anything to numbers. But if the operand is not a number, the unary plus converts it into a number.
+
+47. <code>let apples = "2";
+let oranges = "3";
+// both values converted to numbers before the binary plus
+alert( +apples + +oranges ); // 5
+// the longer variant
+// alert( Number(apples) + Number(oranges) ); // 5</code>
+
+48. the expression "+apples + +oranges", unary pluses work before the addition.
+
+49. When the operator goes after the variable, it is in “postfix form”: counter++. The “prefix form” is when the operator goes before the variable: ++counter.
+
+50. the difference between postfix and prefix is only if there is an operator alongside other operators in the same statement,postfix (X++) increments the x variable and applies it on the next line, however the value of x in the same line is still 1 so when we add it to the other operator in the same line, it's gonna add the value of one while the prefix(++x) operator increments the value's variable and add it to the statement  
+
+51. ```let a = (1 + 2, 3 + 4); alert( a ); // 7 (the result of 3 + 4)``` Here, the first expression 1 + 2 is evaluated and its result is thrown away. Then, 3 + 4 is evaluated and returned as the result.
+
+52. <code>Without them: a = 1 + 2, 3 + 4 evaluates + first, summing the numbers into a = 3, 7, then the assignment operator = assigns a = 3, and the rest is ignored. It’s like (a = 1 + 2), 3 + 4.</code>
+
+53. <code>"" + 1 + 0 = "10" || "" - 1 + 0 = -1 || true + false = 1|| 6 / "3" = 2 ||"2" * "3" = 6 || 4 + 5 + "px" = "9px" || "$" + 4 + 5 = "$45" || "4" - 2 = 2 || "4px" - 2 = NaN || "  -9  " + 5 = "  -9  5"  || "  -9  " - 5 = -14  || null + 1 = 1  || undefined + 1 = NaN || " \t \n" - 2 = -2 </code>
+
+54. takes values and treas it as a string
+
+55. 
