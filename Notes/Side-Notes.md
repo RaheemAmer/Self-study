@@ -28,4 +28,44 @@
 
 14. Reuse or create? - Modern JavaScript minifiers and browsers optimize code well enough, so it won’t create performance issues. Using different variables for different values can even help the engine optimize your code.
 
-15. 
+15. The number type represents both integer and floating point numbers.There are many operations for numbers, e.g. multiplication *, division /, addition +, subtraction -, and so on.  Besides regular numbers, there are so-called “special numeric values” which also belong to this data type: Infinity, -Infinity and NaN.
+
+16. NaN represents a computational error. It is a result of an incorrect or an undefined mathematical operation, NaN is sticky. Any further mathematical operation on NaN returns NaN
+
+17. So, if there’s a NaN somewhere in a mathematical expression, it propagates to the whole result (there’s only one exception to that: ```NaN ** 0 is 1```)
+
+18. In JavaScript, the “number” type cannot represent integer values larger than (2**53-1) (that’s 9007199254740991), or less than -(2**53-1) for negatives. It’s a technical limitation caused by their internal representation. For most purposes that’s quite enough, but sometimes we need really big numbers, e.g. for cryptography or microsecond-precision timestamps.
+
+19. BigInt type was recently added to the language to represent integers of arbitrary length.bA BigInt value is created by appending n to the end of an integer:```// the "n" at the end means it's a BigInt``` ```const bigInt = 1234567890123456789012345678901234567890n;```
+
+20. In JavaScript, there are 3 types of quotes.```Double quotes: "Hello".``` ,```Single quotes: 'Hello'.```,  ```Backticks: `Hello`.```
+
+21. ```alert( `Hello, ${name}!` ); // Hello, John!```
+
+22. There is no character type.
+
+23. In JavaScript, null is not a “reference to a non-existing object” or a “null pointer” like in some other languages.
+
+24. The meaning of undefined is “value is not assigned”.
+
+25. But we don’t recommend doing that. Normally, one uses null to assign an “empty” or “unknown” value to a variable, while undefined is reserved as a default initial value for unassigned things.
+
+26. The typeOf operator - The typeOf operator returns the type of the argument. It’s useful when we want to process values of different types differently or just want to do a quick check.
+
+27. typeOf Math // "object"  (1) || typeOf null // "object"  (2) || typeOf alert // "function"  (3)
+
+28. You may also come across another syntax: typeOf(x). It’s the same as typeOf x.
+
+29. <code>
+            // the expression is a number 1
+
+            alert( `hello ${1}` ); // hello 1
+
+            // the expression is a string "name"
+            alert( `hello ${"name"}` ); // hello name
+
+            // the expression is a variable, embed it
+            alert( `hello ${name}` ); // hello Ilya
+    </code>
+
+30. 

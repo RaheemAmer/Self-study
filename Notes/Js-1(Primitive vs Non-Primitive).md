@@ -1,4 +1,4 @@
-# Javascript-Notes(1)
+# Javascript-Notes
 
 ## Data Types
 
