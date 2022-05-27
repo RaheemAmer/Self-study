@@ -132,6 +132,30 @@ alert( +apples + +oranges ); // 5
 
 53. <code>"" + 1 + 0 = "10" || "" - 1 + 0 = -1 || true + false = 1|| 6 / "3" = 2 ||"2" * "3" = 6 || 4 + 5 + "px" = "9px" || "$" + 4 + 5 = "$45" || "4" - 2 = 2 || "4px" - 2 = NaN || "  -9  " + 5 = "  -9  5"  || "  -9  " - 5 = -14  || null + 1 = 1  || undefined + 1 = NaN || " \t \n" - 2 = -2 </code>
 
-54. takes values and treas it as a string
+54. String Comparison, is done used the order of each character. Not a real dictionary, but Unicode order. The comparison algorithm given above is roughly equivalent to the one used in dictionaries or phone books, but it’s not exactly the same.
 
-55. 
+55. For instance, case matters. A capital letter "A" is not equal to the lowercase "a". Which one is greater? The lowercase "a". Why? Because the lowercase character has a greater index in the internal encoding table JavaScript uses (Unicode).
+
+56. When comparing values of different types, JavaScript (==) converts the values to numbers.
+
+57. <code>let a = 0; || alert( Boolean(a) ); // false || let b = "0";  || alert( Boolean(b) ); // true </code>
+
+58. the equality operator ==. An empty string, just like false, becomes a zero. <code>alert( 0 == false ); // true || alert( '' == false ); // true</code>
+
+59. There’s a special rule. These two are a “sweet couple”: they equal each other (in the sense of ==) (Null === Undefined)
+
+60. null/undefined are converted to numbers: null becomes 0, while undefined becomes NaN.
+
+61. <code>alert( null > 0 );  // (1) false || alert( null == 0 ); // (2) false || alert( null >= 0 ); // (3) true</code>
+
+62. The reason is that an equality check == and comparisons > < >= <= work differently. Comparisons convert null to a number, treating it as 0. That’s why (3) null >= 0 is true and (1) null > 0 is false.
+
+63. Comparison operators return a boolean value.
+
+64. Strings are compared letter-by-letter in the “dictionary” order.
+
+65. When values of different types are compared, they get converted to numbers (with the exclusion of a strict equality check).
+
+66. The values null and undefined equal == each other and do not equal any other value.
+
+67. Be careful when using comparisons like > or < with variables that can occasionally be null/undefined. Checking for null/undefined separately is a good idea.
