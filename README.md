@@ -87,6 +87,9 @@
 - [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
 - [BEM](https://en.bem.info/methodology/quick-start/)
 - [CMS Using React](https://reactbricks.com/)
+- [Head-First-HTML5](https://github.com/bethrobson/Head-First-HTML5)
+- [Head-First-JavaScript-Programming](https://github.com/bethrobson/Head-First-JavaScript-Programming)
+- [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
 
 # Javascript
 
