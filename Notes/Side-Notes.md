@@ -159,3 +159,14 @@ alert( +apples + +oranges ); // 5
 66. The values null and undefined equal == each other and do not equal any other value.
 
 67. Be careful when using comparisons like > or < with variables that can occasionally be null/undefined. Checking for null/undefined separately is a good idea.
+
+68. Ternary operator => let result = condition ? value1 : value2;
+
+69. let accessAllowed = (age > 18) ? true : false; => Technically, we can omit the parentheses around age > 18. The question mark operator has a low precedence, so it executes after the comparison > // (no need to wrap it into parentheses) -- But parentheses make the code more readable, so we recommend using them.
+
+70. Multiple conditions using ternary = > <code>let age = prompt('age?', 18);let message = (age < 3) ? 'Hi, baby!' :(age < 18) ? 'Hello!' :(age < 100) ? 'Greetings!' :'What an unusual age!'; alert( message );</code>
+
+71. Any string except an empty one (and "0" is not empty) becomes true in the logical context.
+
+72. 
+
