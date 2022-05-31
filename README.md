@@ -75,7 +75,7 @@
 - [The Trickiest Part of Effective Technical Interview](https://medium.com/codex/the-best-part-of-effective-technical-interview-82f2d206c0ef)
 - [The Trickiest Part of Effective Technical Interview](https://medium.com/codex/the-best-part-of-effective-technical-interview-82f2d206c0ef)
 - [Don't Nest Callbacks, Use Promise Chaining Instead](https://hackernoon.com/dont-nest-callbacks-use-promise-chaining-instead?source=rss)
-
+- [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 
 # Awesome Resources and Cool Topics
 
