@@ -77,6 +77,7 @@
 - [Don't Nest Callbacks, Use Promise Chaining Instead](https://hackernoon.com/dont-nest-callbacks-use-promise-chaining-instead?source=rss)
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 - [https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k](https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k)
+- [30 Web Development Best Practices for Beginners](https://code.tutsplus.com/articles/30-html-best-practices-for-beginners--cms-40102)
 
 # Awesome Resources and Cool Topics
 
