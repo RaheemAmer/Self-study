@@ -76,6 +76,7 @@
 - [The Trickiest Part of Effective Technical Interview](https://medium.com/codex/the-best-part-of-effective-technical-interview-82f2d206c0ef)
 - [Don't Nest Callbacks, Use Promise Chaining Instead](https://hackernoon.com/dont-nest-callbacks-use-promise-chaining-instead?source=rss)
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
+- [https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k](https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k)
 
 # Awesome Resources and Cool Topics
 
@@ -91,6 +92,7 @@
 - [Head-First-JavaScript-Programming](https://github.com/bethrobson/Head-First-JavaScript-Programming)
 - [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
 - [React Cheatsheet](https://codingcheats.io/react/)
+- [Flat Icon](https://www.flaticon.com/)
 
 # Javascript
 
@@ -116,6 +118,7 @@
 - [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
 - [Computer-Science-In-Javascript](https://github.com/humanwhocodes/computer-science-in-javascript)
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+- [JS Challenger](https://www.jschallenger.com/?ref=java5cript.com)
 
 # React Essentials
 
@@ -161,6 +164,8 @@
 - [LeetCode](https://leetcode.com/)
 - [Spoj](https://www.spoj.com/)
 - [CodinGame](https://www.codingame.com/start)
+- [JavaScript Tutorial for Beginners Edabit](https://edabit.com/tutorial/javascript#variables)
+- [Codebyte Courses](https://www.coderbyte.com/developers?utm_campaign=NewHomepage#courses)
 
 # Cool Videos
 
@@ -172,6 +177,7 @@
 # Prepare For Interviews
 
 - [fullsSackCafe](https://www.fullstack.cafe/)
+- [interview-questions](https://www.java5cript.com/interview-questions)
 
 # Topics
 
