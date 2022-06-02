@@ -214,3 +214,8 @@
 - [Topic5 - Scrum Methodology - Video](https://www.youtube.com/watch?v=8dGdIcyDk1w)
 - [Topic5 - Scrum vs Kanban - Video](https://www.youtube.com/watch?v=GLFuzBiy18o)
 - [Topic5 - Project management - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic5.md)
+
+### Software Architecture Introduction
+
+- [Topic6 - Software Architecture - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic6.md)
+- [Topic6 - Software Architecture - Video](https://www.youtube.com/watch?v=8UlLgOf20Ho)
