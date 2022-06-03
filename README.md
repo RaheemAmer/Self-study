@@ -80,6 +80,7 @@
 - [30 Web Development Best Practices for Beginners](https://code.tutsplus.com/articles/30-html-best-practices-for-beginners--cms-40102)
 - [25+ Paid Open Source Programs and Internships](https://commclassroom.hashnode.dev/25-paid-open-source-programs-and-internships#heading-1-reinforcement-learning-open-source-fest-by-microsoft)
 - [Git Organized: A Better Git Flow](https://dev.to/render/git-organized-a-better-git-flow-56go)
+- [The Thirty Minute Rule](https://daniel.feldroy.com/posts/thirty-minute-rule)
 
 # Awesome Resources and Cool Topics
 
