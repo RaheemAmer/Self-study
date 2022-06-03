@@ -78,6 +78,7 @@
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 - [https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k](https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k)
 - [30 Web Development Best Practices for Beginners](https://code.tutsplus.com/articles/30-html-best-practices-for-beginners--cms-40102)
+- [25+ Paid Open Source Programs and Internships](https://commclassroom.hashnode.dev/25-paid-open-source-programs-and-internships#heading-1-reinforcement-learning-open-source-fest-by-microsoft)
 
 # Awesome Resources and Cool Topics
 
