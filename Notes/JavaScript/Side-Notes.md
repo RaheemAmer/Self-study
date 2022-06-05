@@ -168,5 +168,23 @@ alert( +apples + +oranges ); // 5
 
 71. Any string except an empty one (and "0" is not empty) becomes true in the logical context.
 
-72. 
+72. The OR || operator does the following: 1. Evaluates operands from left to right. For each operand, converts it to boolean. 2. If the result is true, stops and returns the original value of that operand. 3. If all operands have been evaluated (i.e. all were false), returns the last operand.
+
+73. <code>// if the first operand is truthy,
+// AND returns the second operand:
+alert( 1 && 0 ); // 0
+alert( 1 && 5 ); // 5
+// if the first operand is falsy,
+// AND returns it. The second operand is ignored
+alert( null && 5 ); // null
+alert( 0 && "no matter what" ); // 0
+</code>
+
+74. The precedence of AND && operator is higher than OR ||.
+
+75. alert( alert(1) || 2 || alert(3) ); => 2
+
+76. The AND && operator does the following: Evaluates operands from left to right. For each operand, converts it to a boolean. If the result is false, stops and returns the original value of that operand. If all operands have been evaluated (i.e. all were truthy), returns the last operand.
+
+77. 
 
