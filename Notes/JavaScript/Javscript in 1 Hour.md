@@ -44,11 +44,14 @@ let show = function() {
 
 show();
 </code>  
-- ``` const buy = document.getElementById("buy"); buy.addEventListener("click", ()=>{buy.style.backgroundColor = "red"})
-- ``` const buy = document.getElementById("buy"); buy.addEventListener("click", (eo)=>{buy.style.backgroundColor = "red; console.log(eo); eo.target;"})
+- ``` const buy = document.getElementById("buy"); buy.addEventListener("click", ()=>{buy.style.backgroundColor = "red"})```
+- ``` const buy = document.getElementById("buy"); buy.addEventListener("click", (eo)=>{buy.style.backgroundColor = "red; console.log(eo); eo.target;"})```
 - ``` const buy = document.getElementById("buy"); buy.addEventListener("click", (eo)=>{eo.target.style.color ="blue"});```
 - When clicked on button, default behavior the page is scrolled up -> ```eo.prevenDefault;```
 - HTML Dialog methods -> ```<dialog open> This is window</dialog>``` methods(show-close-showModal)
+- Bootstrap from v5 and GitHub stopped using JQuery
+- Use of object literals with backticks-> `hello ${container}`
+- ```console.table(array); console.log(array.indexOf(element));  ```
  
 
 
