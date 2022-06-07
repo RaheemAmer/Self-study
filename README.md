@@ -85,7 +85,7 @@
 - [What is end-to-end testing?](https://circleci.com/blog/what-is-end-to-end-testing/)
 - [Serverless vs containers: Which is best for your application?](https://circleci.com/blog/serverless-vs-containers/)
 - [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
-
+- [addEventListener vs onclick](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick)
 
 # Awesome Resources and Cool Topics
 
