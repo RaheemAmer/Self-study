@@ -81,6 +81,7 @@
 - [25+ Paid Open Source Programs and Internships](https://commclassroom.hashnode.dev/25-paid-open-source-programs-and-internships#heading-1-reinforcement-learning-open-source-fest-by-microsoft)
 - [Git Organized: A Better Git Flow](https://dev.to/render/git-organized-a-better-git-flow-56go)
 - [The Thirty Minute Rule](https://daniel.feldroy.com/posts/thirty-minute-rule)
+- [What is end-to-end testing?](https://circleci.com/blog/what-is-end-to-end-testing/)
 
 # Awesome Resources and Cool Topics
 
