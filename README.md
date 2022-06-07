@@ -104,6 +104,7 @@
 - [Flat Icon](https://www.flaticon.com/)
 - [Material Design for Bootstrap v5 & v4](https://mdbootstrap.com/)
 - [JSON Hero](https://blog.jsonhero.io/introducing-json-hero)
+- [Learn Intersection Observer In 15 Minutes](https://www.youtube.com/watch?v=2IbRtjez6ag)
 
 # Javascript
 
