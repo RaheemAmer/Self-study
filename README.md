@@ -106,6 +106,7 @@
 - [JSON Hero](https://blog.jsonhero.io/introducing-json-hero)
 - [Learn Intersection Observer In 15 Minutes](https://www.youtube.com/watch?v=2IbRtjez6ag)
 - [Understanding the Intersection Observer JavaScript API](https://medium.com/whatfix-techblog/understanding-the-intersection-observer-javascript-api-78661000c1f1)
+- [Cool Resources](https://www.cssscript.com/css-css3/page/2/)
 
 # Javascript
 
