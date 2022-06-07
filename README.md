@@ -74,7 +74,6 @@
 - [What Sets an Exceptional Programmer Apart From an Ordinary Programme](https://levelup.gitconnected.com/what-sets-an-exceptional-programmer-apart-from-an-ordinary-programmer-73d3fce24e21)
 - [The Most Underrated Technique To Nail Senior Developer Interviews](https://betterprogramming.pub/the-most-underrated-technique-to-nail-senior-developer-interviews-f917025453b7)
 - [The Trickiest Part of Effective Technical Interview](https://medium.com/codex/the-best-part-of-effective-technical-interview-82f2d206c0ef)
-- [The Trickiest Part of Effective Technical Interview](https://medium.com/codex/the-best-part-of-effective-technical-interview-82f2d206c0ef)
 - [Don't Nest Callbacks, Use Promise Chaining Instead](https://hackernoon.com/dont-nest-callbacks-use-promise-chaining-instead?source=rss)
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 - [https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k](https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k)
@@ -106,6 +105,7 @@
 - [Material Design for Bootstrap v5 & v4](https://mdbootstrap.com/)
 - [JSON Hero](https://blog.jsonhero.io/introducing-json-hero)
 - [Learn Intersection Observer In 15 Minutes](https://www.youtube.com/watch?v=2IbRtjez6ag)
+- [Understanding the Intersection Observer JavaScript API](https://medium.com/whatfix-techblog/understanding-the-intersection-observer-javascript-api-78661000c1f1)
 
 # Javascript
 
