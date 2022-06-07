@@ -86,6 +86,7 @@
 - [Serverless vs containers: Which is best for your application?](https://circleci.com/blog/serverless-vs-containers/)
 - [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 - [addEventListener vs onclick](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick)
+- [What are DOM levels?](https://stackoverflow.com/questions/6629093/what-are-dom-levels)
 
 # Awesome Resources and Cool Topics
 
