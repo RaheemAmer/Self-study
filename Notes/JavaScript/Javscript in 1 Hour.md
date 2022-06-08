@@ -1,4 +1,4 @@
-## Javscript in 1 Hour Notes
+ب## Javscript in 1 Hour Notes
 
 - Use Defer attribute in script tag, If the defer attribute is set, it specifies that the script is downloaded in parallel to parsing the page, and executed after the page has finished parsing. Note: The defer attribute is only for external scripts
 - ```console.log(document.getElementById("Link"));```
@@ -52,6 +52,7 @@ show();
 - Bootstrap from v5 and GitHub stopped using JQuery
 - Use of object literals with backticks-> `hello ${container}`
 - ```console.table(array); console.log(array.indexOf(element));  ```
+- bracket notatiion, to access array
  
 
 
