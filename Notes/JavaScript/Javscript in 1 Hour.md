@@ -53,6 +53,9 @@ show();
 - Use of object literals with backticks-> `hello ${container}`
 - ```console.table(array); console.log(array.indexOf(element));  ```
 - bracket notatiion, to access array
+- Arrays properties (length)
+- Array methods (indexOf - forEach - from)
+- from => chnage type of wrapper into array => Array.from(title), if it holds string, each char will take an index in the array
  
 
 
