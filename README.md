@@ -86,6 +86,7 @@
 - [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 - [addEventListener vs onclick](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick)
 - [What are DOM levels?](https://stackoverflow.com/questions/6629093/what-are-dom-levels)
+- [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
 
 # Awesome Resources and Cool Topics
 
