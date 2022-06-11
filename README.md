@@ -121,6 +121,9 @@
 - [Javascript: Primitive Types vs Reference Types - Part 2](https://www.youtube.com/watch?v=U_WwLiTKM7I)
 - [How JavaScript Works 🔥& Execution Context](https://www.youtube.com/watch?v=ZvbzSrg0afE&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=2)
 - [Memory Management & Garbage Collection](https://www.youtube.com/watch?v=DIzouoy13UM)
+- [GCSE (J277): OCR Specification Order](https://www.youtube.com/playlist?list=PLCiOXwirraUAEhj4TUjMxYm4593B2dUPF)
+- [(Paper 1) OCR GCSE Computer Science: Computer Systems](https://www.youtube.com/playlist?list=PL04uZ7242_M60Z2F8qV7sId99cuwV_Z3T)
+- [(Paper 2) OCR GCSE Computer Science: Computational Thinking, Algorithms and Programming](https://www.youtube.com/playlist?list=PL04uZ7242_M5KsKU1axzQ20dl4ZvYHPZn)
 
 ##### Repos
 
