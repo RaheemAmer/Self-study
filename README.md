@@ -247,6 +247,7 @@
 
 - [Topic8 - Microservices - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic8.md)
 - [Topic8 - Microservices - Video](https://youtu.be/w58aZjACETQ)
+- [Topic8 - Microservices - Video](https://youtu.be/j1gU2oGFayY)
 
 ### What is Intersection Observer?
 
