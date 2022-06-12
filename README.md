@@ -255,7 +255,12 @@
 - [Topic9 - Intersection Observer - Video](https://www.youtube.com/watch?v=2IbRtjez6ag)
 - [Topic9 - Intersection Observer - Article](https://medium.com/whatfix-techblog/understanding-the-intersection-observer-javascript-api-78661000c1f1)
 
-### Complete full overview on the backend journey
+### Backend web development - a complete overview
 
-- [Topic10 - overview on the backend - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic9.md)
-- [Topic10 - overview on the backend - Video](https://youtu.be/XBu54nfzxAQ)
+- [Topic10 - Overview on the Backend - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic10.md)
+- [Topic10 - Overview on the Backend - Video](https://youtu.be/XBu54nfzxAQ)
+
+### Frontend web development - a complete overview
+
+- [Topic11 - Overview on the Frontend - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic11.md)
+- [Topic11 - Overview on the Frontend - Video](https://youtu.be/XBu54nfzxAQ)
