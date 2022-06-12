@@ -105,8 +105,6 @@
 - [Flat Icon](https://www.flaticon.com/)
 - [Material Design for Bootstrap v5 & v4](https://mdbootstrap.com/)
 - [JSON Hero](https://blog.jsonhero.io/introducing-json-hero)
-- [Learn Intersection Observer In 15 Minutes](https://www.youtube.com/watch?v=2IbRtjez6ag)
-- [Understanding the Intersection Observer JavaScript API](https://medium.com/whatfix-techblog/understanding-the-intersection-observer-javascript-api-78661000c1f1)
 - [Cool Css Resources](https://www.cssscript.com/css-css3/page/2/)
 - [Learn Git](https://learngitbranching.js.org/)
 
@@ -249,3 +247,9 @@
 
 - [Topic8 - Microservices - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic8.md)
 - [Topic8 - Microservices - Video](https://youtu.be/w58aZjACETQ)
+
+### What is Intersection Observer?
+
+- [Topic9 - Intersection Observer - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic9.md)
+- [Topic9 - Intersection Observer - Video](https://www.youtube.com/watch?v=2IbRtjez6ag)
+- [Topic9 - Intersection Observer - Article](https://medium.com/whatfix-techblog/understanding-the-intersection-observer-javascript-api-78661000c1f1)
