@@ -243,3 +243,9 @@
 - [Topic7 - Micro-Frontends - Video](https://youtu.be/w58aZjACETQ)
 - [Topic7 - Micro-Frontends - Video](https://youtu.be/xHSeFDT9W_Q)
 - [Topic7 - Micro-Frontends - Video](https://youtu.be/vO8HgsfKHIU)
+
+
+### What are Microservices?
+
+- [Topic8 - Microservices - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic8.md)
+- [Topic8 - Microservices - Video](https://youtu.be/w58aZjACETQ)
