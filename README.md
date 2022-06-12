@@ -239,5 +239,5 @@
 
 ### Micro-Frontends Course Introduction
 
-- [Topic7 - Micro-Frontends Course - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic7.md)
-- [Topic7 - Micro-Frontends Course - Video](https://www.youtube.com/watch?v=lKKsjpH09dU)
+- [Topic7 - Micro-Frontends - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic7.md)
+- [Topic7 - Micro-Frontends - Video](https://youtu.be/w58aZjACETQ)
