@@ -241,3 +241,4 @@
 
 - [Topic7 - Micro-Frontends - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic7.md)
 - [Topic7 - Micro-Frontends - Video](https://youtu.be/w58aZjACETQ)
+- [Topic7 - Micro-Frontends - Video](https://youtu.be/xHSeFDT9W_Q)
