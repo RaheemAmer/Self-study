@@ -255,7 +255,7 @@
 - [Topic9 - Intersection Observer - Video](https://www.youtube.com/watch?v=2IbRtjez6ag)
 - [Topic9 - Intersection Observer - Article](https://medium.com/whatfix-techblog/understanding-the-intersection-observer-javascript-api-78661000c1f1)
 
-### Compete overview on the backend
+### Complete full overview on the backend journey
 
 - [Topic10 - overview on the backend - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic9.md)
 - [Topic10 - overview on the backend - Video](https://youtu.be/XBu54nfzxAQ)
