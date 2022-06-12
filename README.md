@@ -236,3 +236,8 @@
 
 - [Topic6 - Software Architecture - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic6.md)
 - [Topic6 - Software Architecture - Video](https://www.youtube.com/watch?v=8UlLgOf20Ho)
+
+### Micro-Frontends Course Introduction
+
+- [Topic7 - Micro-Frontends Course - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic7.md)
+- [Topic7 - Micro-Frontends Course - Video](https://www.youtube.com/watch?v=lKKsjpH09dU)
