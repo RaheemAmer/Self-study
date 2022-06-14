@@ -235,12 +235,12 @@
 - [Topic6 - Software Architecture - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic6.md)
 - [Topic6 - Software Architecture - Video](https://www.youtube.com/watch?v=8UlLgOf20Ho)
 
-### Micro-Frontends Course Introduction
+### Micro-Frontend Course Introduction
 
-- [Topic7 - Micro-Frontends - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic7.md)
-- [Topic7 - Micro-Frontends - Video](https://youtu.be/w58aZjACETQ)
-- [Topic7 - Micro-Frontends - Video](https://youtu.be/xHSeFDT9W_Q)
-- [Topic7 - Micro-Frontends - Video](https://youtu.be/vO8HgsfKHIU)
+- [Topic7 - Micro-Frontend - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic7.md)
+- [Topic7 - Micro-Frontend - Video](https://youtu.be/w58aZjACETQ)
+- [Topic7 - Micro-Frontend - Video](https://youtu.be/xHSeFDT9W_Q)
+- [Topic7 - Micro-Frontend - Video](https://youtu.be/vO8HgsfKHIU)
 
 
 ### What are Microservices?
