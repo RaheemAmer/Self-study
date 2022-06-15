@@ -174,6 +174,6 @@
 - After finishing all of this, thw whole global exceution context for the whole program will be vanished
 - The call stack is the parent for all of this execution contexts
 - The call stack has his first element entered which is the global execution context whenver there is a program executed, and when the GEC encounters a function it does a mini version and make an execution context to parse and find the value of it till that mini version is done, it's moved to another line if all miini version are done, then the GEC is popped off the call stack as there are no programs to execute.
-- The call stack maitains the order of execution of execution contexts
+- The call stack maintains the order of execution of execution contexts
 
 
