@@ -1,4 +1,4 @@
-# Window & THis keyword
+# Window & This keyword
 
 ### Shortest js program
 - an empty js file, v8 engine is still doing a lot of things behind the scenes
