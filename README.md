@@ -265,3 +265,9 @@
 
 - [Topic11 - Overview on the Frontend - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic11.md)
 - [Topic11 - Overview on the Frontend - Video](https://www.youtube.com/watch?v=WG5ikvJ2TKA&t=3s)
+
+### Blue-green deployment
+
+- [Topic12 - Blue-green deployment - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic12.md)
+- [Topic12 - Blue-green deployment - Video](https://www.youtube.com/watch?v=h4c6d6qCoO4)
+- [Topic12 - Blue-green deployment - Article](https://www.redhat.com/en/topics/devops/what-is-blue-green-deployment)
