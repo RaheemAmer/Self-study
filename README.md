@@ -107,6 +107,9 @@
 - [JSON Hero](https://blog.jsonhero.io/introducing-json-hero)
 - [Cool Css Resources](https://www.cssscript.com/css-css3/page/2/)
 - [Learn Git](https://learngitbranching.js.org/)
+- [Swvl Engineering Growth Framework - Public](https://docs.google.com/spreadsheets/d/1v-VX0RaI7eW9aW27jPtSl7UiibrfvtWQnh74hS0cqKk/htmlview#)
+- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+
 
 # Javascript
 
