@@ -199,6 +199,7 @@
 - [IullStackCafe](https://www.fullstack.cafe/)
 - [Interview-Questions](https://www.java5cript.com/interview-questions)
 - [Interview - Warmup](https://grow.google/certificates/interview-warmup/)
+- [All the questions to prep for a technical interview](https://github.com/curtisbarnard/BANKI)
 
 # Topics
 
