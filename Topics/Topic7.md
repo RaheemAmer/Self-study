@@ -6,9 +6,9 @@
 2. Micro-FE Framework
 3. Host Pages
 
-### How to integrate nicro frontend?
+### How to integrate micro frontend?
 
-- Buikd-time integration
+- Build-time integration
 - Run-time integration (iframes - javascript)
 
 
