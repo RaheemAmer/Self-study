@@ -138,7 +138,6 @@
 - [Javascript](https://github.com/airbnb/javascript)
 - [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
 - [Computer-Science-In-Javascript](https://github.com/humanwhocodes/computer-science-in-javascript)
-- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 - [JS Challenger](https://www.jschallenger.com/?ref=java5cript.com)
 
 # React Essentials
