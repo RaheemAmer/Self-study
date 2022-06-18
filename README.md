@@ -111,6 +111,7 @@
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 - [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)
 - [Code Masry](http://codemasry.com/)
+- [LearnCantrill](https://www.youtube.com/c/LearnCantrill/playlists)
 
 
 # Javascript
