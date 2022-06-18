@@ -110,6 +110,7 @@
 - [Swvl Engineering Growth Framework - Public](https://docs.google.com/spreadsheets/d/1v-VX0RaI7eW9aW27jPtSl7UiibrfvtWQnh74hS0cqKk/htmlview#)
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 - [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)
+- [Code Masry](http://codemasry.com/)
 
 
 # Javascript
