@@ -87,6 +87,7 @@
 - [addEventListener vs onclick](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick)
 - [What are DOM levels?](https://stackoverflow.com/questions/6629093/what-are-dom-levels)
 - [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
+- [Using Typescript in React: a Crash Course](https://blog.openreplay.com/using-typescript-in-react-a-crash-course)
 
 # Awesome Resources and Cool Topics
 
