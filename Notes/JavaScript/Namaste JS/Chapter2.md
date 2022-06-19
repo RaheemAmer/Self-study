@@ -91,7 +91,7 @@ var getName = () => {
 </pre>
 
 ### Results 
-- Uncaught TypeError: getName is not a function (Arrow function behaves just like the variable)
+- Uncaught TypeError: getName is not a function (function expression behaves just like the variable)
 
 ### Notes
 
