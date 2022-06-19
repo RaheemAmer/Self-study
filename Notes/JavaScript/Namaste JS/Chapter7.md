@@ -1,4 +1,4 @@
-## JavaScript notes
+### Example 1
 <pre>
 console.log(a);
 let a = 10;
@@ -11,7 +11,7 @@ var b = 100;
 
 <hr>
 
-### Example 1
+### Example 2
 <pre>
 console.log(x);
 let a = 10;
@@ -23,7 +23,7 @@ var b = 100;
 
 <hr>
 
-### Example 2
+### Example 3
 <pre>
 let a = 10;
 var a = 100;
@@ -34,7 +34,7 @@ var a = 100;
 
 <hr>
 
-### Example 3
+### Example 4
 <pre>
 const a;
 a = 100;
@@ -67,7 +67,7 @@ a = 100;
 
 ### Questions
 1. What is temporal dead zone?
-2. are let & const declarations hoisted? ->
+2. are let & const declarations hoisted? 
 3. syntaxError vs referenceError vs typeError
 
 ### Answers
