@@ -279,8 +279,8 @@
 - [Topic12 - Blue-green deployment - Article](https://www.redhat.com/en/topics/devops/what-is-blue-green-deployment)
 
 ### Deployment strategies
-- [Topic13 - Blue-green deployment - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic13.md)
-- [Topic13 - Blue-green deployment - Video](https://www.youtube.com/watch?v=OKM0tTYxQbk)
-- [Topic13 - Blue-green deployment - Article](https://thenewstack.io/deployment-strategies/)
+- [Topic13 - Deployment strategies - Summary](https://github.com/RaheemAmer/Self-study/blob/main/Topics/Topic13.md)
+- [Topic13 - Deployment strategies - Video](https://www.youtube.com/watch?v=OKM0tTYxQbk)
+- [Topic13 - Deployment strategies - Article](https://thenewstack.io/deployment-strategies/)
 
 
