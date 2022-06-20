@@ -85,12 +85,19 @@ console.log(c);
 ### Questions
 1. What is a block in JS?
 2. Are let & Const are block scoped?
-3. Block vs Scope vs Shadowing
+3. Block vs Script vs Shadowing
 4. How hoisting works inside the block?
-5. What is Shadowing
+5. What is illegal shadowing?
 
 ### Answers
-
+1. A special memory allocation place that store whatever is inside the curly brackets and also treated differently
+2. Yes, they are block scoped, stored in a special memory place called block
+3. Block are memory space for anything stored inside the curly brackets - Scripr are a special memory space for let and const variable outside block scope - shadowing happens when there is duplicated variable inside a block, if it's avar then it will be over written and if it's let or const then each one of them are stored in different memory space
+4. it depends whether it's declated using var or let & const or inside a block or not
+5. When you try to redeclare a global let variable with a var variable in a block it will result with a SyntaxError, you can do this but it won't be considered illegal shadowing by making var a = 20 inside a function then it will not interfere with the let a as it's scope now is inside the function
 
 ### Notes
 - Shadowing also behaves the same in the function
+- Each block has it's own lexical scope, each curly brackets has it's own block memory space
+- Each block follows the lexical hierarchy method
+- Each function follows the same method of the block arrow function is the same like any other function that's also stored in the block scope
