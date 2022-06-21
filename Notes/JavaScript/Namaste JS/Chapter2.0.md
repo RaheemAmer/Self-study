@@ -1,99 +1,157 @@
 ### Example 1
 <pre>
-function x(){
-  var i = 1;
-  setTimeout(function(){
-    console.log(i);
-  }, 1000)
-     console.log("Hello there");
+function outer(){
+var a = 10;
+return function inner(){
+		console.log(a)
+	}
 }
-x();
+outer()(); or var close = outer(); and then calling it close();
 </pre>
 
 ### Results
-- Hello there
-- 1
+- 10
+
 <hr>
 
 ### Example 2
 <pre>
-function x(){
-for (var i =1; i<=5; i++){
-  setTimeout(function() {
-    console.log(i);
-  }, i * 1000);
-  }
-  console.log("Done");
-  }
-x();
+function outer(){
+ function inner(){
+		console.log(a)
+	}
+  var a = 10;
+return inner;
+}
+outer()(); or var close = outer(); and then calling it close();
 </pre>
 
 
 ### Results
-- done
-- 6
-- Using var, while all of them are pointing to variable i , that's not changed by iteration instead the final outcome is the one who got printed out
-- Using let variable allows to use i vlaue per each iteration, a separate copy os i is made each iteration
+- 10
 
 
 <hr>
 
 ### Example 3
 <pre>
-function x(){
-for (var i =1; i<=5; i++){
-  setTimeout(function() {
-    console.log(i);
-  }, i * 1000);
-  }
-  console.log("Done");
-  }
-x();
+function outer(){
+ function inner(){
+		console.log(a)
+	}
+  let a = 10;
+return inner;
+}
+outer()(); or var close = outer(); and then calling it close();
 </pre>
 
 ### Results
-- done
-- 1
-- 2
-- 3
-- 4
-- 5
+- 10
 
 <hr>
 
 ### Example 4
 
 <pre>
-function x(){
-for (var i =1; i<=5; i++){
-function close(z){
-  setTimeout(function() {
-    console.log(z);
-  }, z * 1000);
-  }
-  close(i);
-  }
-  console.log("Done");
-  }
-x();
+function outer(b){
+ function inner(){
+		console.log(a, b)
+	}
+  let a = 10;
+return inner;
+}
+outer("hello")();
 </pre>
 
 
 ### Results
-- done
+- 10
+- hello
+
+<hr>
+
+### Example 5
+
+<pre>
+function counter(){
+var count = 0;
+return function incrementCounter(){
+ count ++;
+ }
+ }
+ console.log(count)
+</pre>
+
+
+### Results
+- ReferenceError, count is not defined
+
+<hr>
+
+### Example 6
+
+<pre>
+function Counter(){
+var count = 0;
+this.incrementCounter = function incrementCounter(){
+ count ++;
+  console.log(count)
+ }
+ this.decrementIncounter = function decrementIncounter(){
+ count --;
+  console.log(count)
+ }
+}
+var counter1 = new Counter();
+counter1.incrementCounter()
+</pre>
+
+### Results
+- ReferenceError, count is not defined
 - 1
-- 2
-- 3
-- 4
-- 5
+
+<hr>
+
+### Example 7
+
+<pre>
+function a(){
+ var x = 0;
+ return function b(){
+    console.log(x);
+    }
+}
+a();
+// some bad habits of using closure
+var y = a();
+y();
+</pre>
+
+### Results
+- function b()
+- x is deleted after using it
+
+<hr>
+
 
 ### Questions
-1. What is setTTimeout function?
-
+1. What is a closure?
+2. What is data hiding and encapsulaion ?
+3. How can we make the code more scalable?
+4. What are the disadvantages of closure?
+5. What is a grabage collector?
+6. What is the relation between garbage collector and closure?
+ 
 
 ### Answers
-1. setTimeout takes a callback function and attach it to a timer, wheen timer id onem it prints the resultss
+1. setTimeout takes a callback function and attach it to a timer, wheen timer id onem it prints the results
+2. Making private data members for a block scope
+3. Use constructor function to make code more scalable
+4. Over consumption of memory, and sometimes the vairables are not garbage collected even after the program has finished
+5. A program in the v8 engine of the browser that removes all the data that are not active, in js it's dynamically allocated without any interferance of programmer
 
 
 ### Notes
-- Js doesn't wait, setTimeout takes a callback function and attach it to a timer, wheen timer id onem it prints the resultss
+- Use of double parenthesis()() -> another form of self invocation
+- Closure will happen, changing var to let will change it's scope but won't change the closure reference
+- Smart way to collect memory garbage
