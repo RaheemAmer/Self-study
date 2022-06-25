@@ -91,11 +91,11 @@
 
 
 # Self Improvement
-- [The Most Successful People Don't Set Goals -- They Do This Instead](https://www.forbes.com/sites/jennifercohen/2018/09/25/the-most-successful-people-dont-set-goals-they-do-this-instead/?sh=1f60ad8d5d2d)
-- [What Are the Benefits of a Learning Orientation?](https://www.psychologytoday.com/us/blog/learning-work/201910/what-are-the-benefits-learning-orientation)
-- [4 Powerful Steps To Set Yourself Up For Success](https://www.forbes.com/sites/forbescoachescouncil/2020/02/18/4-powerful-steps-to-set-yourself-up-for-success/?sh=1b20d1ed3eb2)
-- [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
-- [How Your Fixed Mindset Is Limiting Your Career, And How To Change It](https://www.forbes.com/sites/ashleystahl/2020/07/23/how-your-fixed-mindset-is-limiting-your-career-and-how-to-change-it/?sh=348942b42a06)
+- [The Most Successful People Don't Set Goals -- They Do This Instead - Article](https://www.forbes.com/sites/jennifercohen/2018/09/25/the-most-successful-people-dont-set-goals-they-do-this-instead/?sh=1f60ad8d5d2d)
+- [What Are the Benefits of a Learning Orientation? - Article](https://www.psychologytoday.com/us/blog/learning-work/201910/what-are-the-benefits-learning-orientation)
+- [4 Powerful Steps To Set Yourself Up For Success - Article](https://www.forbes.com/sites/forbescoachescouncil/2020/02/18/4-powerful-steps-to-set-yourself-up-for-success/?sh=1b20d1ed3eb2)
+- [The power of believing that you can improve - Video](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
+- [How Your Fixed Mindset Is Limiting Your Career, And How To Change It - Article](https://www.forbes.com/sites/ashleystahl/2020/07/23/how-your-fixed-mindset-is-limiting-your-career-and-how-to-change-it/?sh=348942b42a06)
 
 # Awesome Resources and Cool Topics
 
