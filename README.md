@@ -88,6 +88,9 @@
 - [What are DOM levels?](https://stackoverflow.com/questions/6629093/what-are-dom-levels)
 - [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
 - [Using Typescript in React: a Crash Course](https://blog.openreplay.com/using-typescript-in-react-a-crash-course)
+- [The Most Successful People Don't Set Goals -- They Do This Instead](https://www.forbes.com/sites/jennifercohen/2018/09/25/the-most-successful-people-dont-set-goals-they-do-this-instead/?sh=1f60ad8d5d2d)
+- [What Are the Benefits of a Learning Orientation?](https://www.psychologytoday.com/us/blog/learning-work/201910/what-are-the-benefits-learning-orientation)
+- [4 Powerful Steps To Set Yourself Up For Success](https://www.forbes.com/sites/forbescoachescouncil/2020/02/18/4-powerful-steps-to-set-yourself-up-for-success/?sh=1b20d1ed3eb2)
 
 # Awesome Resources and Cool Topics
 
