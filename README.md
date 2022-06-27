@@ -156,6 +156,7 @@
 - [Design pattern intro by (Mohamed Abusrea) (Video)](https://www.youtube.com/watch?v=fUBp_yy_O6I)
 - [(Overview of React.js | Design Patterns in javascript) (Video)](https://www.youtube.com/watch?v=8W-vkJC6nHI)
 - [Redux (Video)](https://www.youtube.com/watch?v=w9ghRG9Foiw)
+- [Understanding ReactJs Project Structure and Folder Setups](https://www.xenonstack.com/insights/reactjs-project-structure)
 
 ### React
 
