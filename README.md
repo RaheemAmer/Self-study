@@ -96,6 +96,9 @@
 - [4 Powerful Steps To Set Yourself Up For Success - Article](https://www.forbes.com/sites/forbescoachescouncil/2020/02/18/4-powerful-steps-to-set-yourself-up-for-success/?sh=1b20d1ed3eb2)
 - [The power of believing that you can improve - Video](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
 - [How Your Fixed Mindset Is Limiting Your Career, And How To Change It - Article](https://www.forbes.com/sites/ashleystahl/2020/07/23/how-your-fixed-mindset-is-limiting-your-career-and-how-to-change-it/?sh=348942b42a06)
+- [How to break habits (from The Power of Habit by Charles Duhigg](https://www.youtube.com/watch?v=W1eYrhGeffc&t=218s)
+- [The Art of Learning](https://www.joshwaitzkin.com/the-art-of-learning)
+- [Bestselling Author GEOFF COLVIN: Talent Is Overrated Speech Overview](https://www.youtube.com/watch?v=1_8SUnwmlX4)
 
 # Awesome Resources and Cool Topics
 
