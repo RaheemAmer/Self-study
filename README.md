@@ -121,7 +121,7 @@
 - [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)
 - [Code Masry](http://codemasry.com/)
 - [LearnCantrill](https://www.youtube.com/c/LearnCantrill/playlists)
-
+- [Web Design for Beginners | FREE COURSE](https://www.youtube.com/watch?v=B-ytMSuwbf8)
 
 # Javascript
 
