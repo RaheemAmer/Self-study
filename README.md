@@ -126,6 +126,7 @@
 - [LearnCantrill](https://www.youtube.com/c/LearnCantrill/playlists)
 - [Web Design for Beginners | FREE COURSE](https://www.youtube.com/watch?v=B-ytMSuwbf8)
 - [Grow your programming skills through visualization](https://log2base2.com)
+- [7 Free Terminal Tools and Emulators to Boost Development Productivity](https://blog.alyssaholland.me/7-terminal-tools-and-emulators-to-boost-development-productivity)
 
 # Javascript
 
