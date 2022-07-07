@@ -88,7 +88,7 @@ x();
 - 5
 
 ### Questions
-1. What is setTTimeout function?
+1. What is setTimeout function?
 
 
 ### Answers
@@ -96,4 +96,4 @@ x();
 
 
 ### Notes
-- Js doesn't wait, setTimeout takes a callback function and attach it to a timer, wheen timer id onem it prints the resultss
+- Js doesn't wait, setTimeout takes a callback function and attach it to a timer, when timer id onem it prints the resultss
