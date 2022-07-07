@@ -36,7 +36,7 @@ console.log(c);
 - 30
 - 10
 - ReferenceError: b is not defined
-- block is create and have b and c values as undefined while a is in the global
+- block is created and have b and c values as undefined while a is in the global
 - You can't access let and const scope unless if you're inside their scope
 
 <hr>
