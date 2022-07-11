@@ -219,6 +219,7 @@
 - [All the questions to prep for a technical interview](https://github.com/curtisbarnard/BANKI)
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Awesome-Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns)
+- [EP14: Algorithms you should know for System Design. Also...](https://blog.bytebytego.com/p/ep14-algorithms-you-should-known)
 
 # Topics
 
