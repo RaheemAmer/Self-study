@@ -99,6 +99,7 @@
 - [How to break habits (from The Power of Habit by Charles Duhigg](https://www.youtube.com/watch?v=W1eYrhGeffc&t=218s)
 - [The Art of Learning](https://www.joshwaitzkin.com/the-art-of-learning)
 - [Bestselling Author GEOFF COLVIN: Talent Is Overrated Speech Overview](https://www.youtube.com/watch?v=1_8SUnwmlX4)
+- [Learning-how-to-learn Course](https://www.coursera.org/learn/learning-how-to-learn/)
 
 # Awesome Resources and Cool Topics
 
