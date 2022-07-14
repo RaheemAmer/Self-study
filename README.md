@@ -100,6 +100,7 @@
 - [The Art of Learning](https://www.joshwaitzkin.com/the-art-of-learning)
 - [Bestselling Author GEOFF COLVIN: Talent Is Overrated Speech Overview](https://www.youtube.com/watch?v=1_8SUnwmlX4)
 - [Learning-how-to-learn Course](https://www.coursera.org/learn/learning-how-to-learn/)
+- [How to Understand Complex Coding Concepts Using the Feynman Technique](https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/)
 
 # Awesome Resources and Cool Topics
 
