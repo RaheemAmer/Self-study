@@ -90,6 +90,7 @@
 - [Using Typescript in React: a Crash Course](https://blog.openreplay.com/using-typescript-in-react-a-crash-course)
 - [5 Options for Deploying Microservices](https://semaphoreci.com/blog/deploy-microservices)
 - [ 12 APIs that you as a developer will love it 💖 ](https://dev.to/monicafidalgo/12-apis-that-you-as-a-developer-will-love-it-4ec6)
+- [Trends in Software Development 2022](https://medium.com/geekculture/trends-in-software-development-2022-650ddef6e14f)
 
 # Self Improvement
 - [The Most Successful People Don't Set Goals -- They Do This Instead - Article](https://www.forbes.com/sites/jennifercohen/2018/09/25/the-most-successful-people-dont-set-goals-they-do-this-instead/?sh=1f60ad8d5d2d)
@@ -223,7 +224,8 @@
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [Awesome-Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns)
 - [EP14: Algorithms you should know for System Design. Also...](https://blog.bytebytego.com/p/ep14-algorithms-you-should-known)
-
+- [11 Advanced React Interview Questions you should absolutely know (with detailed answers)](https://tapajyoti-bose.medium.com/11-advanced-react-interview-questions-you-should-absolutely-know-with-detailed-answers-e306083ecb7d)
+- [ Front End Interview Question ](https://dev.to/lucvankerkvoort/front-end-interview-question-5392)
 # Topics
 
 ### Color theory
