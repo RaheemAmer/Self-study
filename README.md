@@ -89,6 +89,7 @@
 - [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
 - [Using Typescript in React: a Crash Course](https://blog.openreplay.com/using-typescript-in-react-a-crash-course)
 - [5 Options for Deploying Microservices](https://semaphoreci.com/blog/deploy-microservices)
+- [ 12 APIs that you as a developer will love it 💖 ](https://dev.to/monicafidalgo/12-apis-that-you-as-a-developer-will-love-it-4ec6)
 
 # Self Improvement
 - [The Most Successful People Don't Set Goals -- They Do This Instead - Article](https://www.forbes.com/sites/jennifercohen/2018/09/25/the-most-successful-people-dont-set-goals-they-do-this-instead/?sh=1f60ad8d5d2d)
