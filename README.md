@@ -131,6 +131,8 @@
 - [Web Design for Beginners | FREE COURSE](https://www.youtube.com/watch?v=B-ytMSuwbf8)
 - [Grow your programming skills through visualization](https://log2base2.com)
 - [7 Free Terminal Tools and Emulators to Boost Development Productivity](https://blog.alyssaholland.me/7-terminal-tools-and-emulators-to-boost-development-productivity)
+- [2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en)
+- [10+ Projects You Can Do to Become a Frontend Master](https://devdojo.com/suhailkakar/10-projects-you-can-do-to-become-a-frontend-master)
 
 # Javascript
 
