@@ -91,6 +91,8 @@
 - [5 Options for Deploying Microservices](https://semaphoreci.com/blog/deploy-microservices)
 - [ 12 APIs that you as a developer will love it 💖 ](https://dev.to/monicafidalgo/12-apis-that-you-as-a-developer-will-love-it-4ec6)
 - [Trends in Software Development 2022](https://medium.com/geekculture/trends-in-software-development-2022-650ddef6e14f)
+- [How browsers work](https://web.dev/howbrowserswork/)
+- [11 Best GitHub Repositories That Help You Become A Better Software Developer](https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become-a-better-software-developer)
 
 # Self Improvement
 - [The Most Successful People Don't Set Goals -- They Do This Instead - Article](https://www.forbes.com/sites/jennifercohen/2018/09/25/the-most-successful-people-dont-set-goals-they-do-this-instead/?sh=1f60ad8d5d2d)
