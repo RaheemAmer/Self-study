@@ -22,7 +22,7 @@
 - [List of Egyptian based companies with their contact details](https://docs.google.com/spreadsheets/d/10QVCFAYYDMIvQNkR2t4q53hVfjEDHPzM/htmlview)
 - [Virtual Experience Program](https://www.theforage.com/dashboard)
 - [SOFTWARE DEVELOPER LEVELS: HOW TO OBTAIN THE RIGHT TALENT?](https://deventor.io/blog/software-developer-levels/)
-- Total pay estimates for a Frontend Developer Junior at different companies in Egypt](https://www.glassdoor.com/Salaries/egypt-junior-frontend-developer-salary-SRCH_IL.0,5_IN69_KO6,31.htm)
+- [Total pay estimates for a Frontend Developer Junior at different companies in Egypt](https://www.glassdoor.com/Salaries/egypt-junior-frontend-developer-salary-SRCH_IL.0,5_IN69_KO6,31.htm)
 # Podcasts
 
 - [Null++:بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
@@ -78,7 +78,7 @@
 - [The Trickiest Part of Effective Technical Interview](https://medium.com/codex/the-best-part-of-effective-technical-interview-82f2d206c0ef)
 - [Don't Nest Callbacks, Use Promise Chaining Instead](https://hackernoon.com/dont-nest-callbacks-use-promise-chaining-instead?source=rss)
 - [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
-- [https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k](https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k)
+- [typeof-array-is-an-object-in-javascript](https://dev.to/pestrinmarco/typeof-array-is-an-object-in-javascript-1p6k)
 - [30 Web Development Best Practices for Beginners](https://code.tutsplus.com/articles/30-html-best-practices-for-beginners--cms-40102)
 - [25+ Paid Open Source Programs and Internships](https://commclassroom.hashnode.dev/25-paid-open-source-programs-and-internships#heading-1-reinforcement-learning-open-source-fest-by-microsoft)
 - [Git Organized: A Better Git Flow](https://dev.to/render/git-organized-a-better-git-flow-56go)
