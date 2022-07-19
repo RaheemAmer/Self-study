@@ -22,6 +22,7 @@
 - [List of Egyptian based companies with their contact details](https://docs.google.com/spreadsheets/d/10QVCFAYYDMIvQNkR2t4q53hVfjEDHPzM/htmlview)
 - [Virtual Experience Program](https://www.theforage.com/dashboard)
 - [SOFTWARE DEVELOPER LEVELS: HOW TO OBTAIN THE RIGHT TALENT?](https://deventor.io/blog/software-developer-levels/)
+- Total pay estimates for a Frontend Developer Junior at different companies in Egypt](https://www.glassdoor.com/Salaries/egypt-junior-frontend-developer-salary-SRCH_IL.0,5_IN69_KO6,31.htm)
 # Podcasts
 
 - [Null++:بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
