@@ -202,7 +202,6 @@
 ### Problem Solving Websites
 
 - [CoderHub](https://coderhub.sa/home)
-- [TopCoder](https://www.topcoder.com/)
 - [CoderByte](https://www.coderbyte.com/)
 - [Project-Euler](https://projecteuler.net/)
 - [HackerRank](https://www.hackerrank.com)
