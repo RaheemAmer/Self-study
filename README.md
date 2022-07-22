@@ -23,6 +23,7 @@
 - [Virtual Experience Program](https://www.theforage.com/dashboard)
 - [SOFTWARE DEVELOPER LEVELS: HOW TO OBTAIN THE RIGHT TALENT?](https://deventor.io/blog/software-developer-levels/)
 - [Total pay estimates for a Frontend Developer Junior at different companies in Egypt](https://www.glassdoor.com/Salaries/egypt-junior-frontend-developer-salary-SRCH_IL.0,5_IN69_KO6,31.htm)
+
 # Podcasts
 
 - [Null++:بالعربي](https://open.spotify.com/show/45lrjsSMF2JqW0F4TxyoDh?si=b7ca8d0566e84be5)
@@ -138,6 +139,7 @@
 - [7 Free Terminal Tools and Emulators to Boost Development Productivity](https://blog.alyssaholland.me/7-terminal-tools-and-emulators-to-boost-development-productivity)
 - [2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en)
 - [10+ Projects You Can Do to Become a Frontend Master](https://devdojo.com/suhailkakar/10-projects-you-can-do-to-become-a-frontend-master)
+- [Junior vs Senior React Folder Structure - How To Organize React Projects](https://www.youtube.com/watch?v=UUga4-z7b6s)
 
 # Javascript
 
