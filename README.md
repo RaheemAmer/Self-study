@@ -97,6 +97,7 @@
 - [How browsers work](https://web.dev/howbrowserswork/)
 - [11 Best GitHub Repositories That Help You Become A Better Software Developer](https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become-a-better-software-developer)
 - [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
+- [What Is a TLD? An Introductory Guide to Top-Level Domains](https://www.wix.com/blog/2020/12/what-is-tld/)
 
 # Self Improvement
 - [The Most Successful People Don't Set Goals -- They Do This Instead - Article](https://www.forbes.com/sites/jennifercohen/2018/09/25/the-most-successful-people-dont-set-goals-they-do-this-instead/?sh=1f60ad8d5d2d)
