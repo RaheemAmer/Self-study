@@ -142,6 +142,7 @@
 - [10+ Projects You Can Do to Become a Frontend Master](https://devdojo.com/suhailkakar/10-projects-you-can-do-to-become-a-frontend-master)
 - [Junior vs Senior React Folder Structure - How To Organize React Projects](https://www.youtube.com/watch?v=UUga4-z7b6s)
 - [Practical CSS and design tips that helps in building future-proof user interfaces.](https://defensivecss.dev/)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 # Javascript
 
