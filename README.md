@@ -23,7 +23,7 @@
 - [Virtual Experience Program](https://www.theforage.com/dashboard)
 - [SOFTWARE DEVELOPER LEVELS: HOW TO OBTAIN THE RIGHT TALENT?](https://deventor.io/blog/software-developer-levels/)
 - [Total pay estimates for a Frontend Developer Junior at different companies in Egypt](https://www.glassdoor.com/Salaries/egypt-junior-frontend-developer-salary-SRCH_IL.0,5_IN69_KO6,31.htm)
-- [3 Levels of Portfolio Projects](https://github.com/andysterks/three-levels-of-projects)
+- [The 3 Levels of Portfolio Projects](https://github.com/andysterks/three-levels-of-projects)
 
 # Podcasts
 
