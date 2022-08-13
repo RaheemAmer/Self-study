@@ -238,7 +238,9 @@
 - [Awesome-Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns)
 - [EP14: Algorithms you should know for System Design. Also...](https://blog.bytebytego.com/p/ep14-algorithms-you-should-known)
 - [11 Advanced React Interview Questions you should absolutely know (with detailed answers)](https://tapajyoti-bose.medium.com/11-advanced-react-interview-questions-you-should-absolutely-know-with-detailed-answers-e306083ecb7d)
-- [ Front End Interview Question ](https://dev.to/lucvankerkvoort/front-end-interview-question-5392)
+- [Front End Interview Question](https://dev.to/lucvankerkvoort/front-end-interview-question-5392)
+- [The Interview Study Guide For Software Engineers](https://dev.to/seattledataguy/the-interview-study-guide-for-software-engineers-764)
+
 # Topics
 
 ### Color theory
