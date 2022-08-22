@@ -12,12 +12,11 @@
 - [Repo10 - Frontend Mentor Challenges](https://github.com/RaheemAmer/frontendmentor_challenges)
 - [Repo11 - Web-Dev-For-Beginners[Microsoft]](https://github.com/RaheemAmer/Web-Dev-For-Beginners)
 - [Repo12 - Side-Projects](https://github.com/RaheemAmer/Side-projects)
-- [Repo13 - All Internships Available](https://github.com/ACM-Alexandria-SC/Internships)
 - [Repo14 - Book-Summaries](https://github.com/RaheemAmer/Books-Summaries)
 
 ### Self-Notes
 
-- [List of courses finished](https://github.com/RaheemAmer/Self-study/tree/main/Courses-Finished)
+- [All Internships Available](https://github.com/ACM-Alexandria-SC/Internships)
 - [List of Egyptian based companies with their stack](http://stackinfo.me/)
 - [List of Egyptian based companies with their contact details](https://docs.google.com/spreadsheets/d/10QVCFAYYDMIvQNkR2t4q53hVfjEDHPzM/htmlview)
 - [Virtual Experience Program](https://www.theforage.com/dashboard)
