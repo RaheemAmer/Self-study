@@ -100,6 +100,7 @@
 - [What Is a TLD? An Introductory Guide to Top-Level Domains](https://www.wix.com/blog/2020/12/what-is-tld/)
 - [Delete unused node_modules in a second and enjoy some free space! ]()
 - [Unit testing with Jest, React, and TypeScript](https://harshal0902.hashnode.dev/unit-testing-with-jest-react-and-typescript)
+- [The ultimate guide to getting paid writing code, within ONLY 12 months.](https://tigerabrodi.hashnode.dev/become-a-software-developer-in-12-months)
 
 # Self Improvement
 - [The Most Successful People Don't Set Goals -- They Do This Instead - Article](https://www.forbes.com/sites/jennifercohen/2018/09/25/the-most-successful-people-dont-set-goals-they-do-this-instead/?sh=1f60ad8d5d2d)
