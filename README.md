@@ -251,7 +251,10 @@
 - [cvDesignr](https://cvdesignr.com/en)
 - [flowCv](https://flowcv.com/)
 
-# Topics
+<details>
+<summary>
+<h1> Topics </h1>
+</summary>
 
 ### Color theory
 
@@ -331,4 +334,5 @@
 - [Topic13 - Deployment strategies - Video](https://www.youtube.com/watch?v=OKM0tTYxQbk)
 - [Topic13 - Deployment strategies - Article](https://thenewstack.io/deployment-strategies/)
 
+</details>
 
