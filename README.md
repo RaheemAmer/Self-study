@@ -69,7 +69,7 @@
 - [Memory_Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
 - [How-Javascript-Works-Visually-Explained](https://dev.to/narottam04/how-javascript-works-visually-explained-269j)
 - [Callback](https://stackoverflow.com/questions/25098066/what-is-callback-hell-and-how-and-why-does-rx-solve-it)
-- [Jquery](https://code.tutsplus.com/tutorials/what-is-jquery--cms-26232)
+- [JQuery](https://code.tutsplus.com/tutorials/what-is-jquery--cms-26232)
 - [Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly)](https://deepu.tech/memory-management-in-v8/)
 - [Causes of Memory Leaks in JavaScript and How to Avoid Them](https://www.ditdot.hr/en/causes-of-memory-leaks-in-javascript-and-how-to-avoid-them)
 - [C101 Javascript Critical Rendering Path](https://indepth.dev/posts/1498/101-javascript-critical-rendering-path)
