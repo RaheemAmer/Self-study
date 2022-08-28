@@ -1,9 +1,16 @@
 name: Check Markdown links
 
-on: push
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+    branches:
+    - main
   schedule:
-    - cron: '0 9 * * 1'
-    
+    # Run everyday at 9:00 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
+  - cron: "0 2 * * 1-5"
+  
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
