@@ -23,6 +23,7 @@
 - [SOFTWARE DEVELOPER LEVELS: HOW TO OBTAIN THE RIGHT TALENT?](https://deventor.io/blog/software-developer-levels/)
 - [Total pay estimates for a Frontend Developer Junior at different companies in Egypt](https://www.glassdoor.com/Salaries/egypt-junior-frontend-developer-salary-SRCH_IL.0,5_IN69_KO6,31.htm)
 - [The 3 Levels of Portfolio Projects](https://github.com/andysterks/three-levels-of-projects)
+- [Find a mentor](https://app.adplist.org/)
 
 # Podcasts
 
@@ -149,6 +150,7 @@
 - [Practical CSS and design tips that helps in building future-proof user interfaces.](https://defensivecss.dev/)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [100 CSS loaders for your next project ](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
+- [GIT](https://www.atlassian.com/git/tutorials)
 
 # Javascript
 
