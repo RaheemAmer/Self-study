@@ -102,6 +102,7 @@
 - [Delete unused node_modules in a second and enjoy some free space! ]()
 - [Unit testing with Jest, React, and TypeScript](https://harshal0902.hashnode.dev/unit-testing-with-jest-react-and-typescript)
 - [The ultimate guide to getting paid writing code, within ONLY 12 months.](https://tigerabrodi.hashnode.dev/become-a-software-developer-in-12-months)
+- [Composable vs Monolithic architecture](https://medusajs.hashnode.dev/composable-vs-monolithic-architecture)
 
 # Self Improvement
 - [The Most Successful People Don't Set Goals -- They Do This Instead - Article](https://www.forbes.com/sites/jennifercohen/2018/09/25/the-most-successful-people-dont-set-goals-they-do-this-instead/?sh=1f60ad8d5d2d)
@@ -151,6 +152,7 @@
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [100 CSS loaders for your next project ](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
 - [GIT](https://www.atlassian.com/git/tutorials)
+- [How to Use JavaScript's Map() Method to Solve Breadth-First and Depth-First Search Problems](https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/amp/)
 
 # Javascript
 
@@ -201,6 +203,7 @@
 - [The Free React Bootcamp](https://ui.dev/free-react-bootcamp)
 - [React Fundamentals](https://frontarm.com/courses/react-fundamentals/)
 - [kimz codes](https://www.youtube.com/channel/UC-MNF_TXywelItd7M8d-uHA/playlists)
+- [React Free Course](https://frontarm.com/courses/react-fundamentals/)
 
 #### React Roadmap
 
@@ -211,6 +214,7 @@
 - [Read this (readme)](https://github.com/RaheemAmer/Learn-Programming/blob/main/Problem-solving.md)
 - [ArabicCompetitiveProgramming (Repo)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming)
 - [Problem-Solving-Training (Repo)](https://github.com/RaheemAmer/Problem-Solving-Training)
+- [Azhar Roadmap](https://sites.google.com/view/azharicpc/training-plans/level-1-training21?authuser=0)
 
 ### Problem Solving Websites
 
