@@ -153,6 +153,7 @@
 - [100 CSS loaders for your next project ](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
 - [GIT](https://www.atlassian.com/git/tutorials)
 - [How to Use JavaScript's Map() Method to Solve Breadth-First and Depth-First Search Problems](https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/amp/)
+- [Go-Lang Free Full Course](https://www.karanpratapsingh.com/courses/go)
 
 # Javascript
 
