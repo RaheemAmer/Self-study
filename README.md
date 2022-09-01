@@ -154,6 +154,9 @@
 - [GIT](https://www.atlassian.com/git/tutorials)
 - [How to Use JavaScript's Map() Method to Solve Breadth-First and Depth-First Search Problems](https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/amp/)
 - [Go-Lang Free Full Course](https://www.karanpratapsingh.com/courses/go)
+- [Generate unique SVG design assets](https://haikei.app/)
+- [Hypercolor - Gradients for Tailwind CSS](https://hypercolor.dev/)
+- [Webframes](https://webframe.xyz/)
 
 # Javascript
 
