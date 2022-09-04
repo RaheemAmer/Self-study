@@ -158,6 +158,7 @@
 - [Generate unique SVG design assets](https://haikei.app/)
 - [Hypercolor - Gradients for Tailwind CSS](https://hypercolor.dev/)
 - [Webframes](https://webframe.xyz/)
+- [Javascript_Patterns](https://javascriptpatterns.vercel.app/patterns/design-patterns/introduction)
 
 # Javascript
 
