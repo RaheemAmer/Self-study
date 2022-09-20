@@ -117,7 +117,6 @@
 - [How to Understand Complex Coding Concepts Using the Feynman Technique](https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/)
 - [I am a mediocre developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
 - [How to improve your developer game](https://yuricodesbot.hashnode.dev/how-to-improve-your-developer-game#heading-soft-skills)
-- [Vite 3.0 vs. Create React App: Comparison and migration guide](https://blog.logrocket.com/vite-3-vs-create-react-app-comparison-migration-guide/)
 
 # Awesome Resources and Cool Topics
 
@@ -159,6 +158,7 @@
 - [Hypercolor - Gradients for Tailwind CSS](https://hypercolor.dev/)
 - [Webframes](https://webframe.xyz/)
 - [Javascript_Patterns](https://javascriptpatterns.vercel.app/patterns/design-patterns/introduction)
+- [Vite 3.0 vs. Create React App: Comparison and migration guide](https://blog.logrocket.com/vite-3-vs-create-react-app-comparison-migration-guide/)
 
 # Javascript
 
