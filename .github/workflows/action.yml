@@ -1,22 +1,16 @@
 name: Check Markdown links
 
 on:
-  push:
-    branches:
-    - main
-  pull_request:
-    branches:
-    - main
-  schedule:
-    # Run everyday at 9:00 AM (See https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html#tag_20_25_07)
-  - cron: "0 2 * * 1-5"
-  
+   push 
+
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v2.4.2@main
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
-    continue-on-error: true
-
-    
+      continue-on-error: true
+      with:
+        use-quiet-mode: 'yes'
+        use-verbose-mode: 'yes'
+        config-file: 'mlc_config.json'
