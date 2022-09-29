@@ -159,7 +159,7 @@
 - [Webframes](https://webframe.xyz/)
 - [Javascript_Patterns](https://javascriptpatterns.vercel.app/patterns/design-patterns/introduction)
 - [Vite 3.0 vs. Create React App: Comparison and migration guide](https://blog.logrocket.com/vite-3-vs-create-react-app-comparison-migration-guide/)
-
+- [A collection of terms often used when talking about Jamstack](https://jamstack.org/glossary/atomic/)
 # Javascript
 
 ### Videos
